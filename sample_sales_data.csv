@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Total_Sales,Region,Sales_Channel
+ORD-100068,2025-01-01 10:22:00,CUST-2809,Headphones,Accessories,5,82.88,414.4,South,In-Store
+ORD-100954,2025-01-01 21:24:00,CUST-2744,Laptop,Electronics,3,938.48,2815.44,North,In-Store
+ORD-100493,2025-01-01 23:57:00,CUST-3467,Desk Chair,Furniture,5,140.86,704.3,North,Online
+ORD-100327,2025-01-02 00:46:00,CUST-2553,Headphones,Accessories,5,85.16,425.8,West,Wholesale
+ORD-100451,2025-01-02 01:30:00,CUST-4769,Laptop,Electronics,4,924.45,3697.8,South,In-Store
+ORD-100990,2025-01-02 05:15:00,CUST-3727,Headphones,Accessories,4,83.69,334.76,North,Wholesale
+ORD-100322,2025-01-02 07:26:00,CUST-1261,Desk Chair,Furniture,4,136.09,544.36,South,Wholesale
+ORD-100020,2025-01-02 08:59:00,CUST-2222,Desk Chair,Furniture,5,146.42,732.1,North,Wholesale
+ORD-100667,2025-01-03 00:14:00,CUST-3681,Desk Chair,Furniture,5,142.83,714.15,North,In-Store
+ORD-100233,2025-01-03 02:42:00,CUST-4179,Laptop,Electronics,2,925.58,1851.16,West,Online
+ORD-100549,2025-01-03 15:25:00,CUST-4216,Headphones,Accessories,2,82.88,165.76,East,In-Store
+ORD-100028,2025-01-04 02:25:00,CUST-4521,Coffee Maker,Appliances,2,77.04,154.08,North,Online
+ORD-100190,2025-01-04 06:11:00,CUST-4035,Smartphone,Electronics,4,573.97,2295.88,North,Online
+ORD-100619,2025-01-04 21:23:00,CUST-1842,Laptop,Electronics,2,921.07,1842.14,West,Online
+ORD-100533,2025-01-05 07:38:00,CUST-4667,Headphones,Accessories,3,86.47,259.41,South,In-Store
+ORD-100723,2025-01-05 14:41:00,CUST-2686,Headphones,Accessories,1,86.36,86.36,South,Online
+ORD-100405,2025-01-05 16:32:00,CUST-3804,Smartphone,Electronics,4,551.7,2206.8,West,In-Store
+ORD-100733,2025-01-07 04:09:00,CUST-1137,Coffee Maker,Appliances,4,73.98,295.92,East,Wholesale
+ORD-100600,2025-01-07 17:50:00,CUST-1231,Laptop,Electronics,2,902.52,1805.04,North,Wholesale
+ORD-100109,2025-01-07 19:35:00,CUST-4954,Headphones,Accessories,4,85.22,340.88,South,Online
+ORD-100697,2025-01-07 23:00:00,CUST-3509,Smartphone,Electronics,1,562.76,562.76,South,In-Store
+ORD-100440,2025-01-08 08:56:00,CUST-2173,Smartphone,Electronics,1,542.38,542.38,West,Wholesale
+ORD-100801,2025-01-08 09:12:00,CUST-1725,Backpack,Accessories,2,46.1,92.2,East,Online
+ORD-100730,2025-01-08 16:50:00,CUST-2899,Smartphone,Electronics,3,560.51,1681.53,West,In-Store
+ORD-100102,2025-01-09 03:10:00,CUST-3382,Headphones,Accessories,2,82.99,165.98,South,Wholesale
+ORD-100287,2025-01-09 12:34:00,CUST-4572,Headphones,Accessories,4,87.05,348.2,South,Wholesale
+ORD-100623,2025-01-09 13:17:00,CUST-3398,Coffee Maker,Appliances,1,72.94,72.94,North,Wholesale
+ORD-100728,2025-01-10 05:11:00,CUST-2155,Laptop,Electronics,1,996.96,996.96,East,Online
+ORD-100559,2025-01-11 01:38:00,CUST-3241,Coffee Maker,Appliances,4,72.92,291.68,West,Online
+ORD-100967,2025-01-11 09:57:00,CUST-3370,Smartphone,Electronics,2,543.77,1087.54,South,In-Store
+ORD-100742,2025-01-11 23:31:00,CUST-2987,Backpack,Accessories,2,46.78,93.56,South,Online
+ORD-100713,2025-01-12 04:16:00,CUST-1683,Coffee Maker,Appliances,3,73.87,221.61,North,Online
+ORD-100841,2025-01-13 16:28:00,CUST-4579,Desk Chair,Furniture,3,137.3,411.9,West,Wholesale
+ORD-100172,2025-01-14 04:29:00,CUST-1713,Laptop,Electronics,2,935.81,1871.62,South,Online
+ORD-100506,2025-01-14 07:03:00,CUST-2263,Smartphone,Electronics,1,578.28,578.28,West,Online
+ORD-100230,2025-01-14 14:09:00,CUST-1334,Laptop,Electronics,3,939.64,2818.92,East,In-Store
+ORD-100268,2025-01-15 02:46:00,CUST-1863,Laptop,Electronics,5,994.84,4974.2,South,Wholesale
+ORD-100176,2025-01-16 02:04:00,CUST-3917,Backpack,Accessories,4,49.23,196.92,North,In-Store
+ORD-100407,2025-01-16 07:31:00,CUST-4197,Headphones,Accessories,2,81.29,162.58,South,Online
+ORD-100750,2025-01-17 06:53:00,CUST-3628,Laptop,Electronics,1,948.53,948.53,North,Wholesale
+ORD-100013,2025-01-17 10:46:00,CUST-3684,Backpack,Accessories,2,46.33,92.66,South,Online
+ORD-100820,2025-01-17 22:46:00,CUST-1200,Desk Chair,Furniture,3,147.56,442.68,South,Online
+ORD-100500,2025-01-18 10:03:00,CUST-1696,Laptop,Electronics,1,931.86,931.86,North,In-Store
+ORD-100843,2025-01-19 15:40:00,CUST-2273,Backpack,Accessories,5,48.56,242.8,North,Online
+ORD-100834,2025-01-19 22:02:00,CUST-4211,Smartphone,Electronics,4,568.88,2275.52,South,In-Store
+ORD-100232,2025-01-20 09:47:00,CUST-3520,Backpack,Accessories,2,48.47,96.94,West,In-Store
+ORD-100568,2025-01-21 09:55:00,CUST-1474,Headphones,Accessories,3,88.2,264.6,West,Wholesale
+ORD-100915,2025-01-21 13:06:00,CUST-3821,Coffee Maker,Appliances,4,73.52,294.08,North,Wholesale
+ORD-100805,2025-01-22 08:23:00,CUST-4134,Desk Chair,Furniture,1,143.06,143.06,West,Wholesale
+ORD-100298,2025-01-22 09:49:00,CUST-2962,Coffee Maker,Appliances,4,72.62,290.48,South,Wholesale
+ORD-100770,2025-01-22 10:53:00,CUST-1206,Desk Chair,Furniture,3,143.46,430.38,East,Online
+ORD-100199,2025-01-22 14:53:00,CUST-2758,Laptop,Electronics,1,945.97,945.97,South,Wholesale
+ORD-100474,2025-01-22 15:44:00,CUST-2617,Laptop,Electronics,5,916.79,4583.95,West,Wholesale
+ORD-100693,2025-01-22 16:27:00,CUST-1749,Headphones,Accessories,4,86.58,346.32,South,In-Store
+ORD-100803,2025-01-22 20:45:00,CUST-4846,Coffee Maker,Appliances,3,78.58,235.74,West,Wholesale
+ORD-100243,2025-01-23 06:48:00,CUST-2939,Laptop,Electronics,3,931.55,2794.65,West,Wholesale
+ORD-100844,2025-01-23 23:27:00,CUST-1422,Desk Chair,Furniture,3,148.07,444.21,West,Online
+ORD-100163,2025-01-24 01:16:00,CUST-4634,Headphones,Accessories,1,89.95,89.95,North,Online
+ORD-100588,2025-01-24 05:36:00,CUST-3502,Backpack,Accessories,4,45.69,182.76,North,In-Store
+ORD-100554,2025-01-24 10:10:00,CUST-4637,Headphones,Accessories,5,85.09,425.45,South,In-Store
+ORD-100624,2025-01-24 23:55:00,CUST-4223,Laptop,Electronics,5,935.76,4678.8,North,In-Store
+ORD-100592,2025-01-25 18:53:00,CUST-3369,Backpack,Accessories,4,49.18,196.72,East,Wholesale
+ORD-100923,2025-01-26 10:29:00,CUST-1467,Laptop,Electronics,2,945.61,1891.22,North,Online
+ORD-100773,2025-01-26 18:42:00,CUST-1534,Backpack,Accessories,4,46.3,185.2,West,Wholesale
+ORD-100050,2025-01-27 03:09:00,CUST-2366,Coffee Maker,Appliances,3,75.38,226.14,North,Online
+ORD-100301,2025-01-27 03:25:00,CUST-4157,Backpack,Accessories,4,46.64,186.56,North,Wholesale
+ORD-100110,2025-01-27 08:37:00,CUST-1303,Backpack,Accessories,1,45.56,45.56,West,In-Store
+ORD-100937,2025-01-27 18:20:00,CUST-1475,Smartphone,Electronics,1,549.47,549.47,West,Wholesale
+ORD-100941,2025-01-28 14:52:00,CUST-2586,Smartphone,Electronics,5,552.96,2764.8,West,Online
+ORD-100108,2025-01-28 18:53:00,CUST-4574,Headphones,Accessories,2,87.27,174.54,West,Online
+ORD-100656,2025-01-29 05:40:00,CUST-4970,Headphones,Accessories,5,89.29,446.45,West,Wholesale
+ORD-100145,2025-01-29 10:00:00,CUST-2687,Headphones,Accessories,2,84.36,168.72,East,Wholesale
+ORD-100919,2025-01-29 11:31:00,CUST-3733,Coffee Maker,Appliances,1,72.33,72.33,East,Wholesale
+ORD-100039,2025-01-30 01:42:00,CUST-4935,Desk Chair,Furniture,5,142.14,710.7,East,Online
+ORD-100250,2025-01-30 02:33:00,CUST-1584,Coffee Maker,Appliances,3,77.09,231.27,East,Online
+ORD-100321,2025-01-30 19:04:00,CUST-2042,Backpack,Accessories,3,48.35,145.05,North,In-Store
+ORD-100304,2025-01-31 03:03:00,CUST-2711,Coffee Maker,Appliances,5,76.58,382.9,North,Online
+ORD-100573,2025-01-31 05:26:00,CUST-3778,Laptop,Electronics,5,941.59,4707.95,West,Wholesale
+ORD-100783,2025-01-31 09:41:00,CUST-2904,Smartphone,Electronics,5,587.34,2936.7,South,Online
+ORD-100740,2025-01-31 12:08:00,CUST-2998,Coffee Maker,Appliances,5,73.22,366.1,North,Online
+ORD-100114,2025-01-31 20:48:00,CUST-3705,Coffee Maker,Appliances,2,72.78,145.56,East,In-Store
+ORD-100463,2025-02-01 14:50:00,CUST-4485,Coffee Maker,Appliances,2,79.7,159.4,South,In-Store
+ORD-100318,2025-02-01 18:41:00,CUST-2343,Desk Chair,Furniture,5,138.02,690.1,East,Online
+ORD-100961,2025-02-02 12:43:00,CUST-3907,Headphones,Accessories,5,85.06,425.3,North,In-Store
+ORD-100080,2025-02-02 14:09:00,CUST-1847,Backpack,Accessories,4,46.65,186.6,West,Online
+ORD-100473,2025-02-03 06:44:00,CUST-1501,Coffee Maker,Appliances,2,75.54,151.08,North,In-Store
+ORD-100515,2025-02-04 02:58:00,CUST-3128,Backpack,Accessories,5,47.77,238.85,South,In-Store
+ORD-100352,2025-02-04 05:09:00,CUST-3530,Laptop,Electronics,4,921.86,3687.44,South,Online
+ORD-100612,2025-02-04 17:14:00,CUST-2431,Smartphone,Electronics,5,564.95,2824.75,West,Online
+ORD-100634,2025-02-05 06:36:00,CUST-3392,Headphones,Accessories,3,85.36,256.08,South,Wholesale
+ORD-100060,2025-02-05 09:31:00,CUST-1472,Headphones,Accessories,4,86.76,347.04,South,Online
+ORD-100088,2025-02-05 22:14:00,CUST-3544,Laptop,Electronics,2,975.41,1950.82,East,Online
+ORD-100938,2025-02-06 08:01:00,CUST-1814,Coffee Maker,Appliances,5,75.55,377.75,South,In-Store
+ORD-100859,2025-02-06 10:18:00,CUST-3543,Desk Chair,Furniture,5,141.91,709.55,West,Online
+ORD-100044,2025-02-07 00:19:00,CUST-3202,Backpack,Accessories,5,48.1,240.5,North,Online
+ORD-100369,2025-02-07 02:48:00,CUST-2477,Headphones,Accessories,2,82.38,164.76,West,In-Store
+ORD-100905,2025-02-07 09:27:00,CUST-4914,Laptop,Electronics,3,938.27,2814.81,North,In-Store
+ORD-100632,2025-02-07 09:55:00,CUST-3378,Coffee Maker,Appliances,1,72.53,72.53,East,Wholesale
+ORD-100092,2025-02-08 20:12:00,CUST-4164,Coffee Maker,Appliances,2,78.63,157.26,North,Wholesale
+ORD-100351,2025-02-08 22:48:00,CUST-1947,Laptop,Electronics,4,976.42,3905.68,East,Wholesale
+ORD-100495,2025-02-09 08:07:00,CUST-3744,Headphones,Accessories,2,89.83,179.66,North,Wholesale
+ORD-100376,2025-02-09 12:19:00,CUST-1438,Headphones,Accessories,4,89.49,357.96,East,In-Store
+ORD-100248,2025-02-10 11:11:00,CUST-3825,Coffee Maker,Appliances,4,74.36,297.44,West,Online
+ORD-100725,2025-02-10 14:24:00,CUST-3656,Coffee Maker,Appliances,5,73.91,369.55,South,In-Store
+ORD-100818,2025-02-10 20:31:00,CUST-3574,Desk Chair,Furniture,5,135.09,675.45,South,Wholesale
+ORD-100514,2025-02-10 23:19:00,CUST-4730,Backpack,Accessories,2,46.0,92.0,South,In-Store
+ORD-100115,2025-02-11 05:21:00,CUST-2673,Smartphone,Electronics,1,550.42,550.42,East,Online
+ORD-100087,2025-02-11 16:03:00,CUST-3662,Laptop,Electronics,1,974.89,974.89,South,Online
+ORD-100886,2025-02-12 04:19:00,CUST-3522,Desk Chair,Furniture,3,136.14,408.42,South,Online
+ORD-100183,2025-02-13 03:10:00,CUST-1245,Backpack,Accessories,3,45.47,136.41,East,Wholesale
+ORD-100629,2025-02-13 10:24:00,CUST-4709,Smartphone,Electronics,3,584.89,1754.67,East,In-Store
+ORD-100213,2025-02-13 17:13:00,CUST-3146,Coffee Maker,Appliances,2,73.37,146.74,West,In-Store
+ORD-100261,2025-02-14 02:14:00,CUST-4372,Headphones,Accessories,4,84.57,338.28,West,In-Store
+ORD-100550,2025-02-15 04:25:00,CUST-4953,Desk Chair,Furniture,4,141.5,566.0,West,In-Store
+ORD-100739,2025-02-15 08:29:00,CUST-1245,Smartphone,Electronics,5,569.99,2849.95,South,Wholesale
+ORD-100372,2025-02-15 12:04:00,CUST-1050,Desk Chair,Furniture,5,136.39,681.95,South,In-Store
+ORD-100932,2025-02-15 21:24:00,CUST-1481,Headphones,Accessories,1,84.12,84.12,East,Online
+ORD-100003,2025-02-17 07:27:00,CUST-3661,Smartphone,Electronics,1,570.31,570.31,East,Wholesale
+ORD-100131,2025-02-17 07:40:00,CUST-4820,Laptop,Electronics,1,946.14,946.14,East,In-Store
+ORD-100006,2025-02-17 12:58:00,CUST-3988,Laptop,Electronics,3,935.89,2807.67,South,Online
+ORD-100420,2025-02-17 15:38:00,CUST-2629,Coffee Maker,Appliances,3,77.3,231.9,North,Wholesale
+ORD-100569,2025-02-18 01:33:00,CUST-4663,Laptop,Electronics,2,985.19,1970.38,South,In-Store
+ORD-100997,2025-02-18 20:26:00,CUST-3807,Smartphone,Electronics,3,572.61,1717.83,South,In-Store
+ORD-100282,2025-02-19 13:26:00,CUST-1815,Headphones,Accessories,3,88.14,264.42,South,Online
+ORD-100392,2025-02-19 14:57:00,CUST-1183,Coffee Maker,Appliances,3,77.56,232.68,North,In-Store
+ORD-100031,2025-02-19 22:29:00,CUST-1221,Backpack,Accessories,4,46.76,187.04,West,Wholesale
+ORD-100433,2025-02-21 04:46:00,CUST-2288,Laptop,Electronics,4,958.95,3835.8,South,In-Store
+ORD-100518,2025-02-21 09:45:00,CUST-3682,Desk Chair,Furniture,4,148.19,592.76,South,In-Store
+ORD-100503,2025-02-21 11:18:00,CUST-2153,Smartphone,Electronics,4,598.45,2393.8,South,Wholesale
+ORD-100499,2025-02-21 16:21:00,CUST-1301,Desk Chair,Furniture,2,144.75,289.5,East,In-Store
+ORD-100330,2025-02-21 20:16:00,CUST-1181,Laptop,Electronics,1,944.63,944.63,East,Wholesale
+ORD-100561,2025-02-21 22:36:00,CUST-4402,Desk Chair,Furniture,5,139.04,695.2,East,In-Store
+ORD-100002,2025-02-22 23:05:00,CUST-1122,Coffee Maker,Appliances,1,79.13,79.13,West,Online
+ORD-100125,2025-02-23 05:29:00,CUST-4871,Headphones,Accessories,4,84.7,338.8,South,Wholesale
+ORD-100562,2025-02-23 17:27:00,CUST-3038,Coffee Maker,Appliances,3,76.93,230.79,North,Online
+ORD-100370,2025-02-24 03:07:00,CUST-1418,Laptop,Electronics,4,994.29,3977.16,South,In-Store
+ORD-100202,2025-02-24 08:18:00,CUST-4565,Backpack,Accessories,5,47.93,239.65,North,In-Store
+ORD-100851,2025-02-24 13:05:00,CUST-3441,Laptop,Electronics,4,908.6,3634.4,East,Wholesale
+ORD-100908,2025-02-24 15:04:00,CUST-3340,Coffee Maker,Appliances,1,74.06,74.06,North,Online
+ORD-100048,2025-02-24 18:53:00,CUST-2404,Smartphone,Electronics,5,556.33,2781.65,East,Wholesale
+ORD-100638,2025-02-25 05:59:00,CUST-1804,Coffee Maker,Appliances,3,76.84,230.52,East,Wholesale
+ORD-100821,2025-02-25 14:13:00,CUST-4069,Smartphone,Electronics,3,549.67,1649.01,East,In-Store
+ORD-100279,2025-02-25 14:42:00,CUST-1185,Smartphone,Electronics,3,592.94,1778.82,West,In-Store
+ORD-100749,2025-02-26 03:17:00,CUST-4577,Desk Chair,Furniture,1,144.87,144.87,East,Online
+ORD-100195,2025-02-26 09:40:00,CUST-1903,Coffee Maker,Appliances,4,77.42,309.68,South,Online
+ORD-100727,2025-02-26 21:44:00,CUST-2313,Backpack,Accessories,3,48.08,144.24,West,Online
+ORD-100329,2025-02-27 01:05:00,CUST-1275,Coffee Maker,Appliances,1,75.34,75.34,East,Online
+ORD-100052,2025-02-27 02:34:00,CUST-3385,Coffee Maker,Appliances,5,79.22,396.1,North,In-Store
+ORD-100308,2025-02-27 11:17:00,CUST-4017,Smartphone,Electronics,3,583.86,1751.58,East,Online
+ORD-100571,2025-02-28 13:40:00,CUST-4484,Backpack,Accessories,3,49.8,149.4,West,Wholesale
+ORD-100204,2025-02-28 18:06:00,CUST-4924,Desk Chair,Furniture,3,137.9,413.7,South,Wholesale
+ORD-100972,2025-03-01 01:24:00,CUST-1755,Headphones,Accessories,4,86.16,344.64,South,In-Store
+ORD-100892,2025-03-01 01:47:00,CUST-4056,Smartphone,Electronics,4,567.83,2271.32,South,In-Store
+ORD-100838,2025-03-01 10:31:00,CUST-1355,Coffee Maker,Appliances,1,78.85,78.85,South,In-Store
+ORD-100847,2025-03-02 09:18:00,CUST-3292,Smartphone,Electronics,1,549.44,549.44,North,Wholesale
+ORD-100112,2025-03-02 19:02:00,CUST-2558,Backpack,Accessories,5,48.02,240.1,East,Wholesale
+ORD-100653,2025-03-02 22:33:00,CUST-3765,Smartphone,Electronics,3,564.87,1694.61,North,In-Store
+ORD-100168,2025-03-04 15:31:00,CUST-4222,Laptop,Electronics,5,966.27,4831.35,North,Online
+ORD-100824,2025-03-04 23:42:00,CUST-1856,Headphones,Accessories,4,83.95,335.8,East,Wholesale
+ORD-100447,2025-03-06 09:10:00,CUST-2114,Coffee Maker,Appliances,1,79.08,79.08,South,In-Store
+ORD-100943,2025-03-07 01:05:00,CUST-4488,Coffee Maker,Appliances,3,76.54,229.62,East,Online
+ORD-100858,2025-03-07 17:20:00,CUST-3660,Laptop,Electronics,1,940.56,940.56,South,Wholesale
+ORD-100655,2025-03-07 19:34:00,CUST-1601,Desk Chair,Furniture,5,137.41,687.05,North,Wholesale
+ORD-100575,2025-03-08 16:29:00,CUST-1259,Backpack,Accessories,4,45.56,182.24,West,Online
+ORD-100051,2025-03-08 21:44:00,CUST-1039,Headphones,Accessories,4,82.45,329.8,West,Wholesale
+ORD-100371,2025-03-09 02:58:00,CUST-1107,Smartphone,Electronics,5,565.85,2829.25,West,Online
+ORD-100797,2025-03-09 06:18:00,CUST-3322,Laptop,Electronics,5,976.23,4881.15,South,Wholesale
+ORD-100717,2025-03-09 17:58:00,CUST-2913,Smartphone,Electronics,3,541.71,1625.13,South,In-Store
+ORD-100377,2025-03-11 10:23:00,CUST-2803,Laptop,Electronics,3,994.87,2984.61,West,In-Store
+ORD-100722,2025-03-11 11:44:00,CUST-2227,Headphones,Accessories,1,85.21,85.21,West,In-Store
+ORD-100774,2025-03-11 16:24:00,CUST-3523,Desk Chair,Furniture,4,137.96,551.84,East,Wholesale
+ORD-100302,2025-03-12 00:10:00,CUST-4829,Desk Chair,Furniture,2,149.66,299.32,West,Wholesale
+ORD-100988,2025-03-12 06:48:00,CUST-4370,Smartphone,Electronics,3,589.93,1769.79,West,Online
+ORD-100016,2025-03-12 17:23:00,CUST-3570,Backpack,Accessories,1,45.45,45.45,North,Online
+ORD-100999,2025-03-12 17:41:00,CUST-4772,Headphones,Accessories,4,84.35,337.4,West,In-Store
+ORD-100875,2025-03-12 21:55:00,CUST-1736,Backpack,Accessories,5,49.29,246.45,West,Wholesale
+ORD-100672,2025-03-12 22:30:00,CUST-1878,Laptop,Electronics,4,974.77,3899.08,East,Online
+ORD-100446,2025-03-12 23:56:00,CUST-2523,Laptop,Electronics,3,916.37,2749.11,South,Online
+ORD-100953,2025-03-13 00:00:00,CUST-3594,Backpack,Accessories,3,45.92,137.76,West,Wholesale
+ORD-100471,2025-03-13 04:08:00,CUST-4373,Laptop,Electronics,2,906.16,1812.32,East,Online
+ORD-100404,2025-03-13 06:23:00,CUST-4898,Headphones,Accessories,5,88.57,442.85,North,In-Store
+ORD-100413,2025-03-13 07:03:00,CUST-2151,Smartphone,Electronics,5,588.32,2941.6,South,Wholesale
+ORD-100434,2025-03-13 08:27:00,CUST-1109,Headphones,Accessories,2,86.79,173.58,South,Wholesale
+ORD-100119,2025-03-14 02:26:00,CUST-1509,Laptop,Electronics,3,916.58,2749.74,South,In-Store
+ORD-100782,2025-03-14 23:43:00,CUST-1697,Coffee Maker,Appliances,4,77.34,309.36,North,In-Store
+ORD-100363,2025-03-15 13:35:00,CUST-4418,Laptop,Electronics,5,929.92,4649.6,East,Wholesale
+ORD-100333,2025-03-15 22:32:00,CUST-3280,Desk Chair,Furniture,3,138.31,414.93,South,Online
+ORD-100375,2025-03-16 02:09:00,CUST-4205,Smartphone,Electronics,4,566.07,2264.28,South,In-Store
+ORD-100171,2025-03-16 04:26:00,CUST-4548,Desk Chair,Furniture,2,138.75,277.5,North,Wholesale
+ORD-100814,2025-03-16 06:06:00,CUST-4148,Coffee Maker,Appliances,3,72.4,217.2,South,Wholesale
+ORD-100977,2025-03-17 19:17:00,CUST-1460,Coffee Maker,Appliances,4,79.25,317.0,South,Wholesale
+ORD-100073,2025-03-17 22:23:00,CUST-1720,Coffee Maker,Appliances,1,72.04,72.04,West,Online
+ORD-100517,2025-03-18 05:03:00,CUST-4193,Desk Chair,Furniture,1,143.81,143.81,North,Wholesale
+ORD-100452,2025-03-18 06:06:00,CUST-2016,Laptop,Electronics,4,955.28,3821.12,East,In-Store
+ORD-100356,2025-03-18 08:13:00,CUST-4256,Smartphone,Electronics,3,577.18,1731.54,South,In-Store
+ORD-100866,2025-03-18 15:27:00,CUST-1842,Desk Chair,Furniture,5,139.36,696.8,West,Online
+ORD-100702,2025-03-18 16:08:00,CUST-3117,Laptop,Electronics,4,917.65,3670.6,East,Wholesale
+ORD-100948,2025-03-18 19:34:00,CUST-4004,Laptop,Electronics,1,941.77,941.77,North,In-Store
+ORD-100547,2025-03-19 04:41:00,CUST-2295,Smartphone,Electronics,5,560.55,2802.75,West,Online
+ORD-100208,2025-03-19 15:00:00,CUST-1230,Laptop,Electronics,3,946.88,2840.64,South,Wholesale
+ORD-100888,2025-03-19 22:29:00,CUST-1967,Backpack,Accessories,2,46.84,93.68,South,Wholesale
+ORD-100089,2025-03-20 08:08:00,CUST-3865,Smartphone,Electronics,1,568.4,568.4,East,In-Store
+ORD-100792,2025-03-20 14:33:00,CUST-1539,Headphones,Accessories,3,89.18,267.54,West,Wholesale
+ORD-100890,2025-03-20 16:55:00,CUST-3611,Backpack,Accessories,2,48.84,97.68,West,Wholesale
+ORD-100635,2025-03-20 19:18:00,CUST-1019,Desk Chair,Furniture,3,140.46,421.38,West,Online
+ORD-100206,2025-03-20 22:22:00,CUST-4112,Laptop,Electronics,4,917.71,3670.84,West,Wholesale
+ORD-100221,2025-03-21 02:38:00,CUST-2379,Headphones,Accessories,1,88.59,88.59,North,Wholesale
+ORD-100779,2025-03-21 02:55:00,CUST-1056,Laptop,Electronics,2,973.95,1947.9,East,In-Store
+ORD-100692,2025-03-21 03:38:00,CUST-4923,Laptop,Electronics,4,992.01,3968.04,North,Wholesale
+ORD-100165,2025-03-21 14:09:00,CUST-1134,Coffee Maker,Appliances,4,72.78,291.12,West,In-Store
+ORD-100745,2025-03-21 15:20:00,CUST-1002,Headphones,Accessories,5,88.36,441.8,South,In-Store
+ORD-100193,2025-03-22 21:05:00,CUST-2736,Laptop,Electronics,3,967.39,2902.17,West,Wholesale
+ORD-100945,2025-03-22 21:46:00,CUST-2686,Desk Chair,Furniture,5,148.57,742.85,East,Online
+ORD-100525,2025-03-23 02:14:00,CUST-4601,Headphones,Accessories,4,87.38,349.52,East,Wholesale
+ORD-100017,2025-03-23 23:13:00,CUST-2917,Backpack,Accessories,4,47.97,191.88,West,Wholesale
+ORD-100005,2025-03-23 23:49:00,CUST-1418,Backpack,Accessories,2,46.69,93.38,East,In-Store
+ORD-100971,2025-03-24 18:16:00,CUST-1974,Headphones,Accessories,2,82.63,165.26,East,Online
+ORD-100952,2025-03-25 00:00:00,CUST-2899,Backpack,Accessories,5,49.28,246.4,North,In-Store
+ORD-101000,2025-03-25 03:29:00,CUST-3512,Smartphone,Electronics,2,549.26,1098.52,East,Wholesale
+ORD-100985,2025-03-25 14:28:00,CUST-1851,Coffee Maker,Appliances,2,79.16,158.32,North,Online
+ORD-100580,2025-03-26 02:33:00,CUST-3076,Backpack,Accessories,3,46.59,139.77,South,Online
+ORD-100466,2025-03-26 15:20:00,CUST-2851,Backpack,Accessories,1,46.56,46.56,South,Online
+ORD-100891,2025-03-27 07:11:00,CUST-2082,Desk Chair,Furniture,3,146.01,438.03,North,Wholesale
+ORD-100807,2025-03-27 14:25:00,CUST-4399,Headphones,Accessories,1,86.51,86.51,East,In-Store
+ORD-100267,2025-03-28 20:12:00,CUST-1168,Desk Chair,Furniture,5,137.3,686.5,South,Wholesale
+ORD-100374,2025-03-28 23:23:00,CUST-3019,Backpack,Accessories,3,45.84,137.52,South,In-Store
+ORD-100011,2025-03-29 18:13:00,CUST-4790,Coffee Maker,Appliances,4,73.95,295.8,West,In-Store
+ORD-100542,2025-03-29 22:26:00,CUST-4034,Desk Chair,Furniture,1,137.71,137.71,West,Online
+ORD-100593,2025-03-30 04:22:00,CUST-4610,Laptop,Electronics,5,938.73,4693.65,South,Wholesale
+ORD-100484,2025-03-30 06:00:00,CUST-3869,Smartphone,Electronics,3,575.54,1726.62,North,Wholesale
+ORD-100840,2025-03-31 03:49:00,CUST-3072,Headphones,Accessories,2,88.05,176.1,North,In-Store
+ORD-100156,2025-03-31 06:51:00,CUST-2052,Smartphone,Electronics,3,587.18,1761.54,South,Online
+ORD-100696,2025-03-31 15:36:00,CUST-1034,Laptop,Electronics,4,969.81,3879.24,South,Wholesale
+ORD-100123,2025-03-31 16:03:00,CUST-2785,Desk Chair,Furniture,3,144.76,434.28,East,Wholesale
+ORD-100486,2025-03-31 16:44:00,CUST-3156,Laptop,Electronics,2,909.02,1818.04,East,Online
+ORD-100491,2025-03-31 19:10:00,CUST-3726,Coffee Maker,Appliances,5,79.11,395.55,South,Online
+ORD-100931,2025-03-31 20:50:00,CUST-4892,Coffee Maker,Appliances,2,72.29,144.58,West,Wholesale
+ORD-100305,2025-04-01 01:14:00,CUST-1037,Backpack,Accessories,2,48.93,97.86,South,Online
+ORD-100488,2025-04-01 11:02:00,CUST-4467,Laptop,Electronics,5,902.18,4510.9,East,Online
+ORD-100964,2025-04-02 09:50:00,CUST-1606,Laptop,Electronics,3,910.93,2732.79,North,Wholesale
+ORD-100107,2025-04-02 10:19:00,CUST-4990,Laptop,Electronics,2,970.79,1941.58,South,Online
+ORD-100548,2025-04-03 02:45:00,CUST-1237,Backpack,Accessories,2,46.65,93.3,South,Wholesale
+ORD-100324,2025-04-03 04:37:00,CUST-2837,Coffee Maker,Appliances,4,79.82,319.28,South,In-Store
+ORD-100758,2025-04-03 18:46:00,CUST-4696,Backpack,Accessories,2,47.51,95.02,West,In-Store
+ORD-100631,2025-04-03 22:54:00,CUST-3251,Desk Chair,Furniture,5,147.77,738.85,West,Wholesale
+ORD-100659,2025-04-04 21:16:00,CUST-3443,Coffee Maker,Appliances,2,76.08,152.16,South,In-Store
+ORD-100311,2025-04-05 04:47:00,CUST-2571,Backpack,Accessories,2,46.61,93.22,North,In-Store
+ORD-100903,2025-04-05 08:38:00,CUST-4151,Headphones,Accessories,1,85.19,85.19,West,In-Store
+ORD-100476,2025-04-06 09:23:00,CUST-3536,Headphones,Accessories,2,85.0,170.0,North,Wholesale
+ORD-100877,2025-04-06 14:29:00,CUST-3055,Desk Chair,Furniture,4,135.1,540.4,East,Wholesale
+ORD-100246,2025-04-06 16:56:00,CUST-3978,Coffee Maker,Appliances,5,75.97,379.85,South,Online
+ORD-100128,2025-04-07 17:41:00,CUST-1833,Headphones,Accessories,4,86.59,346.36,West,Online
+ORD-100137,2025-04-07 23:48:00,CUST-2303,Smartphone,Electronics,2,574.3,1148.6,West,Online
+ORD-100342,2025-04-08 04:00:00,CUST-3475,Coffee Maker,Appliances,4,79.99,319.96,East,Wholesale
+ORD-100590,2025-04-08 11:32:00,CUST-2873,Laptop,Electronics,1,975.71,975.71,North,In-Store
+ORD-100917,2025-04-09 00:51:00,CUST-1258,Coffee Maker,Appliances,2,79.96,159.92,West,In-Store
+ORD-100033,2025-04-09 06:29:00,CUST-2894,Desk Chair,Furniture,4,141.72,566.88,East,In-Store
+ORD-100829,2025-04-10 00:03:00,CUST-2698,Laptop,Electronics,1,902.39,902.39,East,Wholesale
+ORD-100607,2025-04-10 10:02:00,CUST-4010,Backpack,Accessories,1,45.88,45.88,East,Online
+ORD-100546,2025-04-10 17:04:00,CUST-1221,Laptop,Electronics,4,986.74,3946.96,South,In-Store
+ORD-100980,2025-04-10 19:54:00,CUST-1342,Desk Chair,Furniture,3,138.32,414.96,East,Online
+ORD-100589,2025-04-11 06:24:00,CUST-4377,Laptop,Electronics,4,993.01,3972.04,East,In-Store
+ORD-100266,2025-04-11 21:40:00,CUST-3625,Desk Chair,Furniture,3,139.11,417.33,North,Wholesale
+ORD-100071,2025-04-12 05:01:00,CUST-2697,Laptop,Electronics,4,904.61,3618.44,North,In-Store
+ORD-100734,2025-04-12 15:43:00,CUST-2593,Coffee Maker,Appliances,5,78.16,390.8,East,In-Store
+ORD-100563,2025-04-12 20:47:00,CUST-3881,Smartphone,Electronics,5,586.67,2933.35,East,In-Store
+ORD-100853,2025-04-12 22:53:00,CUST-4329,Desk Chair,Furniture,4,136.17,544.68,East,Online
+ORD-100601,2025-04-13 09:06:00,CUST-3828,Smartphone,Electronics,3,599.0,1797.0,East,Online
+ORD-100456,2025-04-13 09:57:00,CUST-2508,Desk Chair,Furniture,5,146.76,733.8,East,In-Store
+ORD-100443,2025-04-15 05:18:00,CUST-3861,Desk Chair,Furniture,5,139.89,699.45,North,In-Store
+ORD-100049,2025-04-15 23:27:00,CUST-4708,Coffee Maker,Appliances,5,78.81,394.05,West,In-Store
+ORD-100397,2025-04-16 09:30:00,CUST-1765,Coffee Maker,Appliances,1,78.46,78.46,North,Wholesale
+ORD-100973,2025-04-16 19:11:00,CUST-2527,Coffee Maker,Appliances,3,72.27,216.81,South,Online
+ORD-100793,2025-04-16 22:16:00,CUST-3820,Smartphone,Electronics,2,574.85,1149.7,East,In-Store
+ORD-100668,2025-04-16 23:28:00,CUST-3668,Headphones,Accessories,1,84.67,84.67,East,In-Store
+ORD-100846,2025-04-18 10:57:00,CUST-3748,Smartphone,Electronics,3,551.54,1654.62,South,In-Store
+ORD-100524,2025-04-19 13:53:00,CUST-3110,Coffee Maker,Appliances,5,75.87,379.35,South,Online
+ORD-100872,2025-04-19 22:36:00,CUST-4440,Smartphone,Electronics,2,568.48,1136.96,West,In-Store
+ORD-100926,2025-04-20 01:33:00,CUST-1578,Desk Chair,Furniture,1,137.59,137.59,North,In-Store
+ORD-100299,2025-04-20 06:53:00,CUST-1447,Desk Chair,Furniture,5,139.06,695.3,South,Online
+ORD-100045,2025-04-20 17:16:00,CUST-2513,Headphones,Accessories,3,82.18,246.54,North,Online
+ORD-100755,2025-04-21 17:43:00,CUST-1791,Laptop,Electronics,2,910.11,1820.22,West,Online
+ORD-100421,2025-04-22 14:39:00,CUST-3241,Smartphone,Electronics,3,569.67,1709.01,South,In-Store
+ORD-100690,2025-04-22 19:34:00,CUST-1817,Headphones,Accessories,2,82.64,165.28,West,Wholesale
+ORD-100687,2025-04-23 23:06:00,CUST-3115,Coffee Maker,Appliances,3,73.83,221.49,West,In-Store
+ORD-100613,2025-04-24 07:16:00,CUST-4892,Coffee Maker,Appliances,3,74.65,223.95,South,Online
+ORD-100752,2025-04-24 20:40:00,CUST-2917,Coffee Maker,Appliances,2,72.56,145.12,West,Online
+ORD-100259,2025-04-25 04:08:00,CUST-2478,Smartphone,Electronics,2,587.51,1175.02,West,Online
+ORD-100855,2025-04-25 04:54:00,CUST-3865,Desk Chair,Furniture,3,138.86,416.58,West,Online
+ORD-100544,2025-04-25 10:28:00,CUST-3398,Backpack,Accessories,3,48.93,146.79,South,In-Store
+ORD-100650,2025-04-25 17:37:00,CUST-4633,Backpack,Accessories,3,46.76,140.28,West,In-Store
+ORD-100581,2025-04-25 18:47:00,CUST-2819,Coffee Maker,Appliances,2,75.02,150.04,North,In-Store
+ORD-100027,2025-04-26 02:11:00,CUST-1902,Headphones,Accessories,5,81.18,405.9,East,Wholesale
+ORD-100337,2025-04-26 10:15:00,CUST-2690,Coffee Maker,Appliances,4,73.15,292.6,North,Wholesale
+ORD-100960,2025-04-26 10:56:00,CUST-1223,Headphones,Accessories,5,89.07,445.35,West,In-Store
+ORD-100158,2025-04-26 23:05:00,CUST-4238,Coffee Maker,Appliances,4,77.39,309.56,South,Online
+ORD-100059,2025-04-27 07:36:00,CUST-4540,Laptop,Electronics,4,965.99,3863.96,South,In-Store
+ORD-100328,2025-04-28 08:26:00,CUST-4135,Backpack,Accessories,3,46.72,140.16,East,Wholesale
+ORD-100348,2025-04-28 12:57:00,CUST-4126,Desk Chair,Furniture,4,147.49,589.96,South,In-Store
+ORD-100429,2025-04-28 13:04:00,CUST-2505,Laptop,Electronics,1,973.07,973.07,North,In-Store
+ORD-100153,2025-04-28 20:43:00,CUST-4094,Headphones,Accessories,2,82.96,165.92,South,Wholesale
+ORD-100122,2025-04-28 23:00:00,CUST-1164,Desk Chair,Furniture,1,143.8,143.8,South,Wholesale
+ORD-100567,2025-04-29 15:35:00,CUST-4580,Headphones,Accessories,1,83.37,83.37,North,Online
+ORD-100461,2025-04-29 17:44:00,CUST-1347,Backpack,Accessories,3,48.49,145.47,West,Wholesale
+ORD-100921,2025-04-30 02:27:00,CUST-4715,Laptop,Electronics,4,973.54,3894.16,North,In-Store
+ORD-100465,2025-04-30 02:32:00,CUST-1432,Smartphone,Electronics,5,548.16,2740.8,North,Online
+ORD-100666,2025-04-30 02:51:00,CUST-1774,Headphones,Accessories,5,86.38,431.9,West,In-Store
+ORD-100741,2025-04-30 10:48:00,CUST-1790,Desk Chair,Furniture,3,146.82,440.46,West,Wholesale
+ORD-100332,2025-04-30 19:39:00,CUST-4589,Headphones,Accessories,3,86.19,258.57,East,In-Store
+ORD-100862,2025-05-01 05:54:00,CUST-3425,Coffee Maker,Appliances,5,77.35,386.75,West,Online
+ORD-100691,2025-05-01 08:15:00,CUST-2458,Headphones,Accessories,2,82.85,165.7,East,Wholesale
+ORD-100312,2025-05-01 15:14:00,CUST-3677,Headphones,Accessories,3,89.58,268.74,North,In-Store
+ORD-100512,2025-05-01 16:15:00,CUST-4888,Headphones,Accessories,1,81.7,81.7,East,Online
+ORD-100789,2025-05-01 17:06:00,CUST-4867,Headphones,Accessories,3,88.3,264.9,West,Online
+ORD-100143,2025-05-01 21:32:00,CUST-1403,Coffee Maker,Appliances,2,79.36,158.72,North,In-Store
+ORD-100521,2025-05-02 01:40:00,CUST-2383,Coffee Maker,Appliances,3,75.79,227.37,South,Online
+ORD-100224,2025-05-02 15:09:00,CUST-1979,Desk Chair,Furniture,4,139.26,557.04,East,Wholesale
+ORD-100950,2025-05-04 02:50:00,CUST-2468,Desk Chair,Furniture,4,146.29,585.16,East,Online
+ORD-100147,2025-05-04 16:59:00,CUST-2045,Desk Chair,Furniture,4,137.14,548.56,South,In-Store
+ORD-100437,2025-05-04 17:03:00,CUST-4825,Coffee Maker,Appliances,5,76.74,383.7,North,In-Store
+ORD-100237,2025-05-04 19:28:00,CUST-4905,Backpack,Accessories,1,45.93,45.93,South,Online
+ORD-100738,2025-05-05 00:18:00,CUST-4157,Laptop,Electronics,4,958.1,3832.4,East,In-Store
+ORD-100860,2025-05-05 18:42:00,CUST-1852,Smartphone,Electronics,4,598.42,2393.68,North,In-Store
+ORD-100295,2025-05-07 09:31:00,CUST-1849,Desk Chair,Furniture,3,139.47,418.41,South,Wholesale
+ORD-100077,2025-05-07 21:45:00,CUST-1979,Headphones,Accessories,5,87.88,439.4,West,Wholesale
+ORD-100417,2025-05-07 23:04:00,CUST-2696,Backpack,Accessories,5,47.44,237.2,South,Wholesale
+ORD-100034,2025-05-08 02:34:00,CUST-3671,Backpack,Accessories,5,49.03,245.15,North,Online
+ORD-100275,2025-05-08 05:27:00,CUST-3040,Headphones,Accessories,3,89.39,268.17,East,Online
+ORD-100057,2025-05-08 09:06:00,CUST-4516,Smartphone,Electronics,1,587.23,587.23,West,Online
+ORD-100469,2025-05-08 12:08:00,CUST-1127,Backpack,Accessories,3,47.56,142.68,South,Online
+ORD-100578,2025-05-08 16:26:00,CUST-4653,Headphones,Accessories,4,86.96,347.84,East,Wholesale
+ORD-100227,2025-05-09 01:46:00,CUST-4464,Coffee Maker,Appliances,3,75.84,227.52,North,Wholesale
+ORD-100909,2025-05-09 15:13:00,CUST-3722,Laptop,Electronics,2,989.64,1979.28,North,Online
+ORD-100816,2025-05-10 00:25:00,CUST-4615,Backpack,Accessories,4,47.48,189.92,North,Wholesale
+ORD-100244,2025-05-10 01:14:00,CUST-2359,Coffee Maker,Appliances,3,73.52,220.56,North,Wholesale
+ORD-100560,2025-05-10 16:11:00,CUST-3710,Coffee Maker,Appliances,1,73.22,73.22,South,In-Store
+ORD-100450,2025-05-11 03:30:00,CUST-3084,Desk Chair,Furniture,1,145.1,145.1,East,Wholesale
+ORD-100197,2025-05-11 09:52:00,CUST-1529,Headphones,Accessories,4,82.07,328.28,West,Online
+ORD-100182,2025-05-11 12:46:00,CUST-4406,Smartphone,Electronics,4,581.2,2324.8,North,Online
+ORD-100090,2025-05-12 12:35:00,CUST-1442,Smartphone,Electronics,1,576.34,576.34,East,In-Store
+ORD-100698,2025-05-13 06:23:00,CUST-2405,Desk Chair,Furniture,3,138.93,416.79,West,Wholesale
+ORD-100543,2025-05-13 19:04:00,CUST-2455,Smartphone,Electronics,3,596.81,1790.43,North,Online
+ORD-100993,2025-05-13 21:26:00,CUST-4002,Coffee Maker,Appliances,1,75.8,75.8,South,Wholesale
+ORD-100530,2025-05-13 23:30:00,CUST-4497,Laptop,Electronics,4,928.5,3714.0,North,Online
+ORD-100683,2025-05-14 05:58:00,CUST-2205,Backpack,Accessories,5,47.52,237.6,North,Wholesale
+ORD-100061,2025-05-14 06:05:00,CUST-3443,Desk Chair,Furniture,3,149.43,448.29,North,Online
+ORD-100576,2025-05-14 22:21:00,CUST-4576,Headphones,Accessories,5,81.1,405.5,East,Wholesale
+ORD-100675,2025-05-15 07:34:00,CUST-3514,Headphones,Accessories,1,81.71,81.71,West,In-Store
+ORD-100411,2025-05-15 11:53:00,CUST-4320,Laptop,Electronics,1,943.9,943.9,East,Online
+ORD-100509,2025-05-15 15:00:00,CUST-4081,Backpack,Accessories,3,46.31,138.93,North,Online
+ORD-100639,2025-05-15 21:23:00,CUST-3371,Laptop,Electronics,1,972.73,972.73,North,Wholesale
+ORD-100173,2025-05-16 01:47:00,CUST-1260,Smartphone,Electronics,5,584.49,2922.45,North,Wholesale
+ORD-100906,2025-05-16 06:04:00,CUST-3643,Backpack,Accessories,2,45.34,90.68,West,Online
+ORD-100141,2025-05-16 11:33:00,CUST-4519,Desk Chair,Furniture,1,145.38,145.38,South,Wholesale
+ORD-100037,2025-05-16 15:31:00,CUST-1777,Headphones,Accessories,5,84.8,424.0,West,Online
+ORD-100025,2025-05-16 18:00:00,CUST-2276,Desk Chair,Furniture,2,141.34,282.68,East,Wholesale
+ORD-100483,2025-05-17 18:12:00,CUST-4830,Coffee Maker,Appliances,2,72.44,144.88,West,In-Store
+ORD-100129,2025-05-17 18:44:00,CUST-1118,Smartphone,Electronics,4,595.65,2382.6,West,Online
+ORD-100729,2025-05-18 04:16:00,CUST-1617,Coffee Maker,Appliances,1,75.5,75.5,East,Online
+ORD-100878,2025-05-18 14:01:00,CUST-2979,Desk Chair,Furniture,1,143.64,143.64,North,Wholesale
+ORD-100409,2025-05-18 18:32:00,CUST-1895,Headphones,Accessories,1,85.87,85.87,West,Wholesale
+ORD-100701,2025-05-19 08:02:00,CUST-4276,Desk Chair,Furniture,4,141.47,565.88,East,Online
+ORD-100955,2025-05-19 23:49:00,CUST-4607,Desk Chair,Furniture,2,143.13,286.26,North,Wholesale
+ORD-100245,2025-05-20 04:14:00,CUST-2388,Headphones,Accessories,4,84.92,339.68,West,In-Store
+ORD-100083,2025-05-20 14:52:00,CUST-1676,Backpack,Accessories,3,45.14,135.42,West,Wholesale
+ORD-100152,2025-05-21 00:16:00,CUST-4177,Desk Chair,Furniture,1,147.97,147.97,West,In-Store
+ORD-100078,2025-05-21 15:00:00,CUST-2309,Laptop,Electronics,2,971.34,1942.68,South,In-Store
+ORD-100682,2025-05-22 07:43:00,CUST-1019,Desk Chair,Furniture,4,149.44,597.76,West,Wholesale
+ORD-100992,2025-05-22 16:49:00,CUST-2786,Laptop,Electronics,3,959.88,2879.64,West,Wholesale
+ORD-100537,2025-05-22 21:51:00,CUST-1614,Headphones,Accessories,3,88.74,266.22,South,Online
+ORD-100254,2025-05-23 08:31:00,CUST-2585,Laptop,Electronics,2,902.58,1805.16,West,Wholesale
+ORD-100419,2025-05-23 23:42:00,CUST-1010,Headphones,Accessories,4,85.08,340.32,South,Wholesale
+ORD-100887,2025-05-24 09:23:00,CUST-4026,Headphones,Accessories,1,81.12,81.12,East,Wholesale
+ORD-100478,2025-05-24 13:04:00,CUST-4285,Smartphone,Electronics,5,565.14,2825.7,East,Wholesale
+ORD-100226,2025-05-25 13:02:00,CUST-1566,Desk Chair,Furniture,2,142.9,285.8,East,Wholesale
+ORD-100278,2025-05-25 16:53:00,CUST-1033,Desk Chair,Furniture,4,148.23,592.92,South,Wholesale
+ORD-100117,2025-05-25 23:59:00,CUST-3415,Backpack,Accessories,2,45.35,90.7,South,Wholesale
+ORD-100046,2025-05-26 05:23:00,CUST-4346,Backpack,Accessories,3,49.16,147.48,North,Wholesale
+ORD-100936,2025-05-26 07:09:00,CUST-1427,Backpack,Accessories,5,46.25,231.25,West,Online
+ORD-100900,2025-05-26 08:35:00,CUST-4844,Smartphone,Electronics,5,542.03,2710.15,North,Online
+ORD-100210,2025-05-27 02:37:00,CUST-3377,Coffee Maker,Appliances,1,78.9,78.9,West,In-Store
+ORD-100970,2025-05-28 01:36:00,CUST-4785,Smartphone,Electronics,4,561.18,2244.72,East,Wholesale
+ORD-100234,2025-05-28 08:06:00,CUST-4251,Headphones,Accessories,2,82.09,164.18,West,Wholesale
+ORD-100991,2025-05-28 14:14:00,CUST-4132,Smartphone,Electronics,2,569.5,1139.0,North,Online
+ORD-100009,2025-05-29 02:43:00,CUST-3603,Smartphone,Electronics,4,591.98,2367.92,South,In-Store
+ORD-100772,2025-05-29 13:27:00,CUST-4052,Smartphone,Electronics,1,547.92,547.92,West,Wholesale
+ORD-100373,2025-05-30 14:07:00,CUST-3134,Backpack,Accessories,5,48.89,244.45,East,Wholesale
+ORD-100132,2025-05-30 17:22:00,CUST-2870,Coffee Maker,Appliances,4,74.18,296.72,West,Online
+ORD-100785,2025-05-30 22:09:00,CUST-2985,Backpack,Accessories,4,46.15,184.6,North,In-Store
+ORD-100869,2025-05-31 02:07:00,CUST-3293,Headphones,Accessories,1,89.1,89.1,North,Wholesale
+ORD-100179,2025-05-31 15:29:00,CUST-3666,Desk Chair,Furniture,1,144.07,144.07,North,Wholesale
+ORD-100545,2025-05-31 15:49:00,CUST-4643,Laptop,Electronics,5,947.04,4735.2,North,In-Store
+ORD-100602,2025-06-01 06:57:00,CUST-4555,Desk Chair,Furniture,4,135.48,541.92,North,Wholesale
+ORD-100038,2025-06-01 07:25:00,CUST-2284,Laptop,Electronics,5,957.91,4789.55,North,Wholesale
+ORD-100951,2025-06-01 08:09:00,CUST-2248,Coffee Maker,Appliances,1,79.98,79.98,West,Wholesale
+ORD-100315,2025-06-01 12:32:00,CUST-2863,Desk Chair,Furniture,2,138.3,276.6,West,Online
+ORD-100436,2025-06-01 22:03:00,CUST-1461,Laptop,Electronics,2,978.37,1956.74,West,In-Store
+ORD-100504,2025-06-02 08:06:00,CUST-1223,Laptop,Electronics,5,904.95,4524.75,West,Online
+ORD-100306,2025-06-02 19:23:00,CUST-3626,Desk Chair,Furniture,3,136.6,409.8,South,In-Store
+ORD-100767,2025-06-03 01:16:00,CUST-4775,Coffee Maker,Appliances,4,78.46,313.84,North,Online
+ORD-100765,2025-06-03 03:08:00,CUST-2329,Desk Chair,Furniture,2,140.99,281.98,North,Wholesale
+ORD-100430,2025-06-03 04:40:00,CUST-3172,Backpack,Accessories,2,48.86,97.72,East,Online
+ORD-100358,2025-06-03 23:20:00,CUST-2553,Laptop,Electronics,1,965.36,965.36,North,In-Store
+ORD-100150,2025-06-04 06:47:00,CUST-3342,Backpack,Accessories,1,49.26,49.26,East,In-Store
+ORD-100270,2025-06-04 16:29:00,CUST-1298,Smartphone,Electronics,4,588.27,2353.08,South,In-Store
+ORD-100989,2025-06-04 19:58:00,CUST-4240,Headphones,Accessories,4,85.44,341.76,East,Online
+ORD-100093,2025-06-04 23:21:00,CUST-3182,Desk Chair,Furniture,5,147.07,735.35,North,In-Store
+ORD-100522,2025-06-05 10:36:00,CUST-2230,Headphones,Accessories,1,88.58,88.58,East,Online
+ORD-100986,2025-06-05 16:12:00,CUST-1027,Desk Chair,Furniture,1,149.79,149.79,West,Online
+ORD-100426,2025-06-06 23:52:00,CUST-1874,Smartphone,Electronics,1,565.74,565.74,North,Online
+ORD-100023,2025-06-07 08:10:00,CUST-3997,Laptop,Electronics,5,924.08,4620.4,North,Online
+ORD-100721,2025-06-07 12:29:00,CUST-3143,Backpack,Accessories,3,46.29,138.87,North,Online
+ORD-100467,2025-06-07 15:48:00,CUST-2246,Headphones,Accessories,1,88.66,88.66,East,Wholesale
+ORD-100220,2025-06-08 06:09:00,CUST-1563,Smartphone,Electronics,4,560.49,2241.96,East,Online
+ORD-100203,2025-06-08 11:35:00,CUST-3593,Smartphone,Electronics,2,559.97,1119.94,North,Wholesale
+ORD-100225,2025-06-08 16:00:00,CUST-4151,Smartphone,Electronics,5,562.06,2810.3,West,In-Store
+ORD-100401,2025-06-10 04:01:00,CUST-1579,Smartphone,Electronics,2,558.31,1116.62,South,Wholesale
+ORD-100043,2025-06-10 08:08:00,CUST-4805,Headphones,Accessories,3,84.55,253.65,West,In-Store
+ORD-100636,2025-06-10 08:24:00,CUST-1550,Smartphone,Electronics,4,582.72,2330.88,South,In-Store
+ORD-100346,2025-06-10 14:07:00,CUST-2068,Laptop,Electronics,2,956.24,1912.48,East,Online
+ORD-100291,2025-06-10 14:17:00,CUST-4174,Smartphone,Electronics,2,564.77,1129.54,West,Wholesale
+ORD-100464,2025-06-11 13:24:00,CUST-2113,Coffee Maker,Appliances,3,78.65,235.95,South,In-Store
+ORD-100759,2025-06-11 18:46:00,CUST-2324,Headphones,Accessories,4,88.59,354.36,West,Wholesale
+ORD-100438,2025-06-12 04:30:00,CUST-3237,Backpack,Accessories,5,49.29,246.45,West,In-Store
+ORD-100982,2025-06-12 20:35:00,CUST-1605,Desk Chair,Furniture,1,142.66,142.66,South,In-Store
+ORD-100494,2025-06-12 20:52:00,CUST-2356,Smartphone,Electronics,1,578.37,578.37,West,Online
+ORD-100796,2025-06-13 14:07:00,CUST-1437,Backpack,Accessories,3,46.51,139.53,East,Online
+ORD-100481,2025-06-13 20:22:00,CUST-3168,Smartphone,Electronics,3,541.75,1625.25,North,In-Store
+ORD-100747,2025-06-14 02:09:00,CUST-3798,Coffee Maker,Appliances,4,79.73,318.92,East,Wholesale
+ORD-100777,2025-06-14 11:45:00,CUST-3524,Desk Chair,Furniture,3,144.82,434.46,East,In-Store
+ORD-100616,2025-06-14 13:01:00,CUST-4732,Laptop,Electronics,5,938.58,4692.9,South,Online
+ORD-100552,2025-06-14 18:07:00,CUST-3840,Smartphone,Electronics,1,541.07,541.07,East,Online
+ORD-100832,2025-06-15 00:12:00,CUST-3330,Laptop,Electronics,3,968.57,2905.71,West,Wholesale
+ORD-100490,2025-06-15 04:39:00,CUST-2299,Smartphone,Electronics,4,583.93,2335.72,West,Wholesale
+ORD-100610,2025-06-15 20:22:00,CUST-4235,Laptop,Electronics,5,977.36,4886.8,South,In-Store
+ORD-100201,2025-06-16 05:51:00,CUST-4459,Desk Chair,Furniture,3,141.89,425.67,North,In-Store
+ORD-100099,2025-06-16 06:12:00,CUST-4605,Backpack,Accessories,3,46.05,138.15,South,In-Store
+ORD-100621,2025-06-19 01:17:00,CUST-1288,Laptop,Electronics,2,907.32,1814.64,South,Wholesale
+ORD-100029,2025-06-19 02:25:00,CUST-1541,Desk Chair,Furniture,4,138.56,554.24,East,Wholesale
+ORD-100883,2025-06-19 14:22:00,CUST-1144,Headphones,Accessories,3,89.64,268.92,South,Online
+ORD-100169,2025-06-20 08:18:00,CUST-1848,Smartphone,Electronics,2,587.21,1174.42,North,Wholesale
+ORD-100284,2025-06-20 16:10:00,CUST-4814,Desk Chair,Furniture,5,141.85,709.25,East,In-Store
+ORD-100956,2025-06-21 01:52:00,CUST-2568,Desk Chair,Furniture,3,149.17,447.51,North,Online
+ORD-100768,2025-06-21 11:52:00,CUST-3673,Backpack,Accessories,1,47.07,47.07,East,Wholesale
+ORD-100378,2025-06-21 14:41:00,CUST-3470,Coffee Maker,Appliances,2,79.78,159.56,South,In-Store
+ORD-100309,2025-06-22 10:04:00,CUST-4506,Desk Chair,Furniture,2,145.11,290.22,East,Wholesale
+ORD-100577,2025-06-23 17:43:00,CUST-3710,Desk Chair,Furniture,5,145.31,726.55,North,In-Store
+ORD-100850,2025-06-23 18:27:00,CUST-1206,Backpack,Accessories,1,45.24,45.24,West,Wholesale
+ORD-100215,2025-06-23 23:10:00,CUST-1387,Desk Chair,Furniture,3,135.78,407.34,North,In-Store
+ORD-100914,2025-06-24 02:44:00,CUST-3271,Backpack,Accessories,3,48.79,146.37,East,Online
+ORD-100684,2025-06-24 03:59:00,CUST-2813,Desk Chair,Furniture,5,149.34,746.7,South,Wholesale
+ORD-100192,2025-06-24 05:22:00,CUST-1637,Headphones,Accessories,3,83.8,251.4,North,Online
+ORD-100595,2025-06-25 10:02:00,CUST-3867,Backpack,Accessories,2,49.01,98.02,West,Wholesale
+ORD-100882,2025-06-25 18:15:00,CUST-4005,Laptop,Electronics,5,946.88,4734.4,West,Wholesale
+ORD-100968,2025-06-25 22:22:00,CUST-2245,Coffee Maker,Appliances,4,78.28,313.12,West,In-Store
+ORD-100780,2025-06-25 23:40:00,CUST-1856,Laptop,Electronics,4,930.5,3722.0,North,In-Store
+ORD-100868,2025-06-26 03:02:00,CUST-4491,Desk Chair,Furniture,5,135.11,675.55,West,Online
+ORD-100553,2025-06-26 10:39:00,CUST-1267,Smartphone,Electronics,5,546.15,2730.75,South,Online
+ORD-100136,2025-06-26 11:20:00,CUST-4561,Desk Chair,Furniture,4,146.43,585.72,West,In-Store
+ORD-100149,2025-06-26 20:03:00,CUST-4462,Headphones,Accessories,4,86.74,346.96,South,In-Store
+ORD-100335,2025-06-26 21:57:00,CUST-2705,Coffee Maker,Appliances,5,75.04,375.2,South,Wholesale
+ORD-100365,2025-06-27 01:49:00,CUST-4149,Laptop,Electronics,1,943.7,943.7,South,Wholesale
+ORD-100326,2025-06-28 04:02:00,CUST-1912,Smartphone,Electronics,4,599.56,2398.24,East,Wholesale
+ORD-100391,2025-06-28 10:38:00,CUST-2950,Headphones,Accessories,2,85.09,170.18,West,In-Store
+ORD-100497,2025-06-29 08:45:00,CUST-4000,Laptop,Electronics,1,972.03,972.03,West,In-Store
+ORD-100857,2025-06-29 16:20:00,CUST-3353,Backpack,Accessories,3,49.22,147.66,South,Wholesale
+ORD-100082,2025-06-30 10:11:00,CUST-1898,Backpack,Accessories,4,49.26,197.04,East,In-Store
+ORD-100209,2025-06-30 17:19:00,CUST-2510,Laptop,Electronics,4,931.03,3724.12,North,Online
+ORD-100241,2025-06-30 18:38:00,CUST-2960,Headphones,Accessories,2,88.31,176.62,West,Wholesale
+ORD-100485,2025-06-30 19:22:00,CUST-2265,Desk Chair,Furniture,2,137.12,274.24,West,Wholesale
+ORD-100387,2025-07-01 05:40:00,CUST-4955,Coffee Maker,Appliances,5,76.89,384.45,West,In-Store
+ORD-100996,2025-07-02 01:39:00,CUST-1750,Headphones,Accessories,1,83.62,83.62,East,Wholesale
+ORD-100240,2025-07-02 02:18:00,CUST-1181,Headphones,Accessories,1,83.16,83.16,South,Online
+ORD-100870,2025-07-03 03:44:00,CUST-3417,Headphones,Accessories,2,88.78,177.56,West,Wholesale
+ORD-100054,2025-07-03 07:10:00,CUST-4621,Coffee Maker,Appliances,1,73.99,73.99,South,Wholesale
+ORD-100916,2025-07-03 16:36:00,CUST-1146,Laptop,Electronics,4,988.51,3954.04,East,Online
+ORD-100151,2025-07-03 19:37:00,CUST-2621,Headphones,Accessories,3,89.92,269.76,North,Wholesale
+ORD-100482,2025-07-03 19:56:00,CUST-1987,Smartphone,Electronics,1,598.43,598.43,East,Wholesale
+ORD-100505,2025-07-04 00:07:00,CUST-1397,Backpack,Accessories,5,45.43,227.15,West,Online
+ORD-100679,2025-07-04 08:09:00,CUST-4193,Coffee Maker,Appliances,2,71.99,143.98,North,In-Store
+ORD-100313,2025-07-04 23:38:00,CUST-1654,Smartphone,Electronics,1,543.72,543.72,West,In-Store
+ORD-100252,2025-07-05 13:04:00,CUST-2523,Desk Chair,Furniture,2,135.48,270.96,West,In-Store
+ORD-100712,2025-07-05 20:02:00,CUST-4498,Desk Chair,Furniture,4,149.47,597.88,East,Online
+ORD-100010,2025-07-06 05:33:00,CUST-3600,Headphones,Accessories,3,84.19,252.57,North,Wholesale
+ORD-100699,2025-07-07 06:16:00,CUST-4499,Backpack,Accessories,4,47.11,188.44,South,In-Store
+ORD-100398,2025-07-07 11:07:00,CUST-4956,Smartphone,Electronics,3,567.44,1702.32,West,Wholesale
+ORD-100957,2025-07-07 15:53:00,CUST-3288,Desk Chair,Furniture,3,135.6,406.8,East,Wholesale
+ORD-100103,2025-07-08 16:09:00,CUST-3878,Desk Chair,Furniture,4,142.95,571.8,South,In-Store
+ORD-100167,2025-07-08 18:35:00,CUST-4965,Coffee Maker,Appliances,4,74.86,299.44,South,Online
+ORD-100664,2025-07-09 01:28:00,CUST-2435,Coffee Maker,Appliances,2,76.23,152.46,West,In-Store
+ORD-100646,2025-07-09 07:59:00,CUST-2923,Laptop,Electronics,5,966.85,4834.25,South,In-Store
+ORD-100273,2025-07-09 17:34:00,CUST-2095,Desk Chair,Furniture,2,136.58,273.16,West,Online
+ORD-100942,2025-07-11 04:39:00,CUST-2375,Backpack,Accessories,3,48.59,145.77,South,Online
+ORD-100231,2025-07-11 07:39:00,CUST-1563,Laptop,Electronics,1,931.86,931.86,South,Online
+ORD-100501,2025-07-12 05:29:00,CUST-3513,Coffee Maker,Appliances,1,72.59,72.59,South,Wholesale
+ORD-100534,2025-07-12 11:54:00,CUST-3132,Backpack,Accessories,4,46.25,185.0,South,Wholesale
+ORD-100418,2025-07-12 15:25:00,CUST-4071,Laptop,Electronics,1,963.35,963.35,West,Wholesale
+ORD-100837,2025-07-12 21:23:00,CUST-3437,Desk Chair,Furniture,5,147.63,738.15,West,Online
+ORD-100649,2025-07-13 12:28:00,CUST-4984,Desk Chair,Furniture,1,144.79,144.79,South,In-Store
+ORD-100325,2025-07-13 12:49:00,CUST-4523,Laptop,Electronics,5,968.26,4841.3,East,Wholesale
+ORD-100359,2025-07-13 18:51:00,CUST-3047,Backpack,Accessories,1,45.27,45.27,East,Online
+ORD-100685,2025-07-13 19:13:00,CUST-2887,Backpack,Accessories,3,48.84,146.52,West,Wholesale
+ORD-100340,2025-07-13 22:59:00,CUST-3966,Desk Chair,Furniture,1,144.03,144.03,East,Wholesale
+ORD-100813,2025-07-14 01:29:00,CUST-4558,Smartphone,Electronics,5,594.73,2973.65,East,Online
+ORD-100823,2025-07-14 02:18:00,CUST-1551,Backpack,Accessories,1,49.21,49.21,South,In-Store
+ORD-100198,2025-07-14 18:10:00,CUST-2626,Coffee Maker,Appliances,5,73.83,369.15,South,Online
+ORD-100791,2025-07-15 17:46:00,CUST-3346,Coffee Maker,Appliances,2,76.89,153.78,West,Online
+ORD-100594,2025-07-16 14:17:00,CUST-4946,Desk Chair,Furniture,2,148.73,297.46,South,In-Store
+ORD-100508,2025-07-18 06:18:00,CUST-1182,Headphones,Accessories,3,88.96,266.88,East,In-Store
+ORD-100800,2025-07-18 16:46:00,CUST-2673,Backpack,Accessories,2,45.68,91.36,East,Online
+ORD-100751,2025-07-18 22:27:00,CUST-2500,Backpack,Accessories,5,47.62,238.1,South,Online
+ORD-100910,2025-07-19 09:05:00,CUST-3898,Smartphone,Electronics,4,581.99,2327.96,North,Wholesale
+ORD-100716,2025-07-19 10:33:00,CUST-1517,Smartphone,Electronics,3,554.83,1664.49,West,Wholesale
+ORD-100364,2025-07-19 23:06:00,CUST-4053,Desk Chair,Furniture,2,139.97,279.94,North,Wholesale
+ORD-100732,2025-07-20 02:26:00,CUST-4392,Desk Chair,Furniture,2,142.04,284.08,South,In-Store
+ORD-100897,2025-07-20 15:44:00,CUST-2382,Coffee Maker,Appliances,5,77.98,389.9,East,Wholesale
+ORD-100389,2025-07-20 15:48:00,CUST-1100,Coffee Maker,Appliances,5,76.7,383.5,East,In-Store
+ORD-100788,2025-07-21 05:21:00,CUST-2238,Laptop,Electronics,3,934.67,2804.01,South,Wholesale
+ORD-100381,2025-07-21 12:27:00,CUST-4144,Laptop,Electronics,2,993.2,1986.4,East,Wholesale
+ORD-100277,2025-07-21 17:15:00,CUST-1207,Backpack,Accessories,2,49.82,99.64,South,Online
+ORD-100871,2025-07-21 21:20:00,CUST-3232,Headphones,Accessories,4,87.4,349.6,West,In-Store
+ORD-100159,2025-07-22 00:28:00,CUST-4067,Headphones,Accessories,4,85.82,343.28,South,Wholesale
+ORD-100196,2025-07-22 20:27:00,CUST-4130,Laptop,Electronics,3,900.76,2702.28,East,Online
+ORD-100357,2025-07-23 02:41:00,CUST-1925,Headphones,Accessories,4,89.62,358.48,East,Wholesale
+ORD-100714,2025-07-23 03:30:00,CUST-4157,Laptop,Electronics,4,906.37,3625.48,North,Online
+ORD-100507,2025-07-23 16:04:00,CUST-3228,Backpack,Accessories,3,49.46,148.38,North,Wholesale
+ORD-100715,2025-07-23 17:53:00,CUST-3682,Laptop,Electronics,5,910.38,4551.9,East,Online
+ORD-100528,2025-07-23 21:41:00,CUST-3433,Laptop,Electronics,2,968.11,1936.22,South,In-Store
+ORD-100680,2025-07-24 12:03:00,CUST-1062,Coffee Maker,Appliances,5,75.15,375.75,East,Wholesale
+ORD-100026,2025-07-24 22:55:00,CUST-2015,Coffee Maker,Appliances,5,74.98,374.9,West,Online
+ORD-100280,2025-07-25 01:44:00,CUST-2582,Desk Chair,Furniture,3,143.42,430.26,South,Online
+ORD-100913,2025-07-25 01:53:00,CUST-4495,Coffee Maker,Appliances,1,79.97,79.97,South,Wholesale
+ORD-100700,2025-07-25 09:32:00,CUST-3952,Backpack,Accessories,2,45.89,91.78,East,Online
+ORD-100472,2025-07-25 12:42:00,CUST-1089,Coffee Maker,Appliances,1,77.03,77.03,South,Online
+ORD-100331,2025-07-25 14:58:00,CUST-2184,Smartphone,Electronics,1,572.38,572.38,East,Wholesale
+ORD-100126,2025-07-25 18:46:00,CUST-1474,Laptop,Electronics,3,945.47,2836.41,South,In-Store
+ORD-100556,2025-07-26 00:39:00,CUST-1089,Smartphone,Electronics,2,553.45,1106.9,East,Wholesale
+ORD-100127,2025-07-26 17:33:00,CUST-1222,Laptop,Electronics,5,965.76,4828.8,West,In-Store
+ORD-100864,2025-07-27 02:22:00,CUST-3024,Desk Chair,Furniture,5,136.62,683.1,West,In-Store
+ORD-100470,2025-07-27 15:26:00,CUST-1417,Desk Chair,Furniture,2,146.21,292.42,North,In-Store
+ORD-100640,2025-07-27 20:08:00,CUST-4661,Smartphone,Electronics,5,594.37,2971.85,South,Wholesale
+ORD-100395,2025-07-27 21:29:00,CUST-4020,Smartphone,Electronics,4,551.17,2204.68,West,Online
+ORD-100314,2025-07-27 23:25:00,CUST-4752,Desk Chair,Furniture,3,148.84,446.52,North,Wholesale
+ORD-100101,2025-07-28 16:40:00,CUST-4247,Desk Chair,Furniture,4,146.36,585.44,West,In-Store
+ORD-100055,2025-07-28 21:11:00,CUST-4610,Coffee Maker,Appliances,2,73.23,146.46,East,Online
+ORD-100458,2025-07-29 00:48:00,CUST-4108,Smartphone,Electronics,1,572.48,572.48,South,Online
+ORD-100336,2025-07-29 05:05:00,CUST-4478,Headphones,Accessories,5,84.38,421.9,West,Online
+ORD-100564,2025-07-29 10:04:00,CUST-4822,Smartphone,Electronics,4,542.36,2169.44,East,Wholesale
+ORD-100987,2025-07-29 21:48:00,CUST-3326,Headphones,Accessories,5,84.72,423.6,West,Wholesale
+ORD-100899,2025-07-30 03:20:00,CUST-3970,Desk Chair,Furniture,4,136.55,546.2,South,Online
+ORD-100706,2025-07-30 04:08:00,CUST-3358,Headphones,Accessories,5,88.8,444.0,East,Wholesale
+ORD-100056,2025-07-31 00:50:00,CUST-4539,Smartphone,Electronics,3,584.18,1752.54,West,Wholesale
+ORD-100830,2025-07-31 01:33:00,CUST-1824,Headphones,Accessories,2,84.14,168.28,North,Wholesale
+ORD-100835,2025-07-31 01:54:00,CUST-3365,Desk Chair,Furniture,3,139.48,418.44,North,Online
+ORD-100940,2025-07-31 06:49:00,CUST-2984,Backpack,Accessories,1,49.45,49.45,West,Wholesale
+ORD-100927,2025-08-01 05:44:00,CUST-4791,Coffee Maker,Appliances,2,74.95,149.9,West,Online
+ORD-100134,2025-08-01 11:36:00,CUST-2222,Desk Chair,Furniture,1,139.0,139.0,South,Wholesale
+ORD-100873,2025-08-02 05:15:00,CUST-1293,Headphones,Accessories,2,89.97,179.94,East,Online
+ORD-100453,2025-08-02 10:55:00,CUST-3056,Headphones,Accessories,5,88.42,442.1,South,Online
+ORD-100338,2025-08-02 19:01:00,CUST-2352,Desk Chair,Furniture,2,137.0,274.0,South,Online
+ORD-100498,2025-08-03 05:40:00,CUST-2537,Backpack,Accessories,4,47.46,189.84,South,Wholesale
+ORD-100540,2025-08-03 13:48:00,CUST-3975,Backpack,Accessories,5,48.67,243.35,East,In-Store
+ORD-100460,2025-08-03 16:47:00,CUST-1179,Laptop,Electronics,2,997.25,1994.5,South,Online
+ORD-100081,2025-08-04 13:17:00,CUST-1024,Desk Chair,Furniture,1,149.18,149.18,West,In-Store
+ORD-100695,2025-08-05 16:19:00,CUST-4178,Desk Chair,Furniture,3,135.48,406.44,West,Wholesale
+ORD-100247,2025-08-06 02:41:00,CUST-1420,Backpack,Accessories,2,48.0,96.0,South,In-Store
+ORD-100410,2025-08-06 03:29:00,CUST-2842,Coffee Maker,Appliances,2,78.63,157.26,South,Online
+ORD-100983,2025-08-07 12:37:00,CUST-2261,Backpack,Accessories,3,46.85,140.55,South,In-Store
+ORD-100904,2025-08-07 23:37:00,CUST-4197,Coffee Maker,Appliances,3,78.15,234.45,South,Online
+ORD-100085,2025-08-08 04:37:00,CUST-1866,Backpack,Accessories,3,45.9,137.7,West,In-Store
+ORD-100424,2025-08-08 06:54:00,CUST-1382,Coffee Maker,Appliances,3,79.27,237.81,East,In-Store
+ORD-100947,2025-08-08 08:25:00,CUST-4875,Smartphone,Electronics,5,559.63,2798.15,East,Wholesale
+ORD-100094,2025-08-08 22:34:00,CUST-4368,Headphones,Accessories,3,81.61,244.83,North,In-Store
+ORD-100388,2025-08-09 03:36:00,CUST-2532,Laptop,Electronics,2,909.85,1819.7,East,In-Store
+ORD-100062,2025-08-11 11:47:00,CUST-4684,Coffee Maker,Appliances,4,78.28,313.12,North,In-Store
+ORD-100360,2025-08-11 22:00:00,CUST-1865,Headphones,Accessories,1,86.08,86.08,North,Online
+ORD-100444,2025-08-12 08:08:00,CUST-3507,Laptop,Electronics,4,924.44,3697.76,North,In-Store
+ORD-100574,2025-08-13 06:11:00,CUST-4604,Desk Chair,Furniture,3,140.69,422.07,North,Wholesale
+ORD-100802,2025-08-13 21:03:00,CUST-2658,Backpack,Accessories,4,48.43,193.72,East,In-Store
+ORD-100570,2025-08-13 21:13:00,CUST-1749,Headphones,Accessories,1,88.9,88.9,South,In-Store
+ORD-100606,2025-08-15 07:41:00,CUST-4949,Coffee Maker,Appliances,3,77.63,232.89,East,Wholesale
+ORD-100523,2025-08-15 10:57:00,CUST-2809,Headphones,Accessories,5,87.55,437.75,North,Online
+ORD-100778,2025-08-15 21:16:00,CUST-2531,Smartphone,Electronics,2,566.42,1132.84,East,Wholesale
+ORD-100069,2025-08-15 23:03:00,CUST-3111,Smartphone,Electronics,2,570.66,1141.32,North,In-Store
+ORD-100177,2025-08-16 02:30:00,CUST-2126,Laptop,Electronics,2,932.2,1864.4,North,Online
+ORD-100253,2025-08-16 02:37:00,CUST-3660,Desk Chair,Furniture,3,137.06,411.18,West,In-Store
+ORD-100249,2025-08-16 11:59:00,CUST-3619,Backpack,Accessories,3,45.2,135.6,West,In-Store
+ORD-100644,2025-08-17 05:26:00,CUST-3998,Smartphone,Electronics,5,573.97,2869.85,East,Wholesale
+ORD-100529,2025-08-17 06:03:00,CUST-4431,Backpack,Accessories,3,47.92,143.76,South,Online
+ORD-100615,2025-08-17 08:12:00,CUST-3795,Coffee Maker,Appliances,5,76.9,384.5,East,Online
+ORD-100815,2025-08-17 09:51:00,CUST-3550,Coffee Maker,Appliances,2,73.44,146.88,East,Online
+ORD-100984,2025-08-17 19:08:00,CUST-2182,Laptop,Electronics,4,921.56,3686.24,West,In-Store
+ORD-100513,2025-08-18 05:54:00,CUST-2734,Smartphone,Electronics,2,598.32,1196.64,East,Online
+ORD-100974,2025-08-18 18:25:00,CUST-4813,Smartphone,Electronics,1,572.01,572.01,North,In-Store
+ORD-100274,2025-08-19 08:27:00,CUST-2712,Smartphone,Electronics,3,545.8,1637.4,West,Wholesale
+ORD-100705,2025-08-19 11:25:00,CUST-1081,Headphones,Accessories,5,84.24,421.2,South,In-Store
+ORD-100113,2025-08-19 15:06:00,CUST-3543,Headphones,Accessories,4,88.73,354.92,South,Wholesale
+ORD-100367,2025-08-19 16:44:00,CUST-3784,Smartphone,Electronics,4,561.34,2245.36,West,Online
+ORD-100812,2025-08-19 21:38:00,CUST-3254,Headphones,Accessories,4,81.76,327.04,East,In-Store
+ORD-100116,2025-08-19 23:31:00,CUST-3895,Desk Chair,Furniture,1,142.04,142.04,East,In-Store
+ORD-100761,2025-08-20 15:16:00,CUST-1066,Backpack,Accessories,1,44.99,44.99,South,Wholesale
+ORD-100647,2025-08-21 01:35:00,CUST-4966,Laptop,Electronics,3,998.05,2994.15,North,Wholesale
+ORD-100104,2025-08-21 09:14:00,CUST-1489,Headphones,Accessories,1,83.25,83.25,East,In-Store
+ORD-100086,2025-08-21 11:09:00,CUST-2033,Headphones,Accessories,4,87.84,351.36,South,In-Store
+ORD-100181,2025-08-21 13:36:00,CUST-3724,Backpack,Accessories,3,48.64,145.92,West,In-Store
+ORD-100876,2025-08-21 17:23:00,CUST-1924,Backpack,Accessories,4,47.75,191.0,West,In-Store
+ORD-100810,2025-08-21 20:08:00,CUST-2327,Coffee Maker,Appliances,4,79.16,316.64,North,In-Store
+ORD-100140,2025-08-22 00:31:00,CUST-4201,Coffee Maker,Appliances,2,73.14,146.28,North,In-Store
+ORD-100527,2025-08-22 01:43:00,CUST-3068,Headphones,Accessories,3,87.33,261.99,South,In-Store
+ORD-100585,2025-08-22 11:38:00,CUST-3294,Headphones,Accessories,2,88.42,176.84,West,In-Store
+ORD-100719,2025-08-22 21:32:00,CUST-3620,Coffee Maker,Appliances,5,77.08,385.4,West,Wholesale
+ORD-100516,2025-08-23 00:25:00,CUST-2697,Coffee Maker,Appliances,5,76.97,384.85,West,Online
+ORD-100408,2025-08-23 19:18:00,CUST-1467,Coffee Maker,Appliances,4,78.17,312.68,North,Wholesale
+ORD-100400,2025-08-23 21:04:00,CUST-1548,Smartphone,Electronics,3,588.81,1766.43,North,Wholesale
+ORD-100764,2025-08-24 12:08:00,CUST-2049,Smartphone,Electronics,3,548.3,1644.9,East,Online
+ORD-100007,2025-08-24 18:18:00,CUST-2200,Laptop,Electronics,4,997.3,3989.2,North,Wholesale
+ORD-100098,2025-08-26 19:27:00,CUST-4485,Desk Chair,Furniture,3,145.01,435.03,North,In-Store
+ORD-100709,2025-08-26 21:33:00,CUST-3508,Smartphone,Electronics,3,592.09,1776.27,West,Wholesale
+ORD-100075,2025-08-26 22:47:00,CUST-3509,Desk Chair,Furniture,5,149.81,749.05,South,In-Store
+ORD-100455,2025-08-27 09:38:00,CUST-2511,Headphones,Accessories,5,83.94,419.7,West,Online
+ORD-100944,2025-08-27 15:39:00,CUST-3472,Backpack,Accessories,3,45.85,137.55,East,In-Store
+ORD-100344,2025-08-27 18:12:00,CUST-4615,Coffee Maker,Appliances,3,74.86,224.58,South,Wholesale
+ORD-100084,2025-08-28 04:21:00,CUST-3632,Desk Chair,Furniture,4,143.0,572.0,North,Online
+ORD-100120,2025-08-28 23:30:00,CUST-1329,Headphones,Accessories,3,87.29,261.87,West,In-Store
+ORD-100239,2025-08-29 01:29:00,CUST-1066,Coffee Maker,Appliances,3,75.09,225.27,South,Wholesale
+ORD-100058,2025-08-29 07:35:00,CUST-4360,Smartphone,Electronics,4,588.99,2355.96,South,In-Store
+ORD-100161,2025-08-30 00:51:00,CUST-1906,Desk Chair,Furniture,5,148.25,741.25,South,Wholesale
+ORD-100138,2025-08-31 13:00:00,CUST-1517,Backpack,Accessories,2,49.93,99.86,West,Online
+ORD-100935,2025-08-31 16:58:00,CUST-2491,Smartphone,Electronics,1,549.58,549.58,North,Wholesale
+ORD-100885,2025-08-31 19:44:00,CUST-2985,Smartphone,Electronics,3,574.36,1723.08,North,In-Store
+ORD-100174,2025-09-01 15:18:00,CUST-1907,Headphones,Accessories,1,85.61,85.61,West,Wholesale
+ORD-100303,2025-09-01 16:17:00,CUST-3645,Coffee Maker,Appliances,3,73.59,220.77,South,In-Store
+ORD-100212,2025-09-01 17:06:00,CUST-3925,Smartphone,Electronics,4,597.45,2389.8,North,In-Store
+ORD-100930,2025-09-01 23:37:00,CUST-1979,Smartphone,Electronics,3,552.36,1657.08,West,In-Store
+ORD-100487,2025-09-02 00:01:00,CUST-3936,Headphones,Accessories,2,89.25,178.5,East,In-Store
+ORD-100427,2025-09-02 02:39:00,CUST-1033,Smartphone,Electronics,5,575.61,2878.05,West,Online
+ORD-100799,2025-09-02 04:34:00,CUST-4490,Desk Chair,Furniture,4,147.68,590.72,South,Online
+ORD-100551,2025-09-02 13:05:00,CUST-4653,Laptop,Electronics,2,903.76,1807.52,South,Online
+ORD-100572,2025-09-02 14:23:00,CUST-3851,Coffee Maker,Appliances,2,79.08,158.16,North,Online
+ORD-100978,2025-09-03 01:22:00,CUST-2645,Smartphone,Electronics,1,580.67,580.67,South,Online
+ORD-100654,2025-09-03 16:21:00,CUST-1176,Smartphone,Electronics,4,575.44,2301.76,North,Online
+ORD-100385,2025-09-03 19:52:00,CUST-3873,Backpack,Accessories,4,47.66,190.64,North,In-Store
+ORD-100036,2025-09-04 07:17:00,CUST-2599,Backpack,Accessories,2,49.5,99.0,West,Online
+ORD-100157,2025-09-04 10:04:00,CUST-1576,Coffee Maker,Appliances,1,78.95,78.95,West,Online
+ORD-100565,2025-09-04 11:17:00,CUST-3740,Smartphone,Electronics,1,540.16,540.16,North,Wholesale
+ORD-100502,2025-09-05 01:03:00,CUST-1219,Backpack,Accessories,2,49.7,99.4,West,Online
+ORD-100390,2025-09-05 03:34:00,CUST-1580,Headphones,Accessories,1,84.73,84.73,North,Wholesale
+ORD-100766,2025-09-05 05:54:00,CUST-3630,Backpack,Accessories,5,49.12,245.6,North,Wholesale
+ORD-100645,2025-09-05 12:14:00,CUST-2082,Laptop,Electronics,4,921.87,3687.48,East,Online
+ORD-100024,2025-09-06 02:21:00,CUST-1676,Desk Chair,Furniture,2,146.48,292.96,West,Wholesale
+ORD-100889,2025-09-06 06:10:00,CUST-3439,Desk Chair,Furniture,3,147.92,443.76,North,Online
+ORD-100480,2025-09-06 11:44:00,CUST-1106,Desk Chair,Furniture,4,142.53,570.12,South,Online
+ORD-100519,2025-09-06 19:31:00,CUST-1589,Desk Chair,Furniture,2,142.09,284.18,South,In-Store
+ORD-100194,2025-09-06 20:43:00,CUST-2760,Backpack,Accessories,2,47.06,94.12,North,In-Store
+ORD-100929,2025-09-07 02:45:00,CUST-3840,Laptop,Electronics,1,900.71,900.71,South,In-Store
+ORD-100633,2025-09-07 11:17:00,CUST-3537,Headphones,Accessories,2,82.14,164.28,North,In-Store
+ORD-100403,2025-09-07 21:41:00,CUST-2183,Desk Chair,Furniture,2,145.39,290.78,East,In-Store
+ORD-100095,2025-09-08 03:36:00,CUST-1721,Backpack,Accessories,4,49.79,199.16,East,In-Store
+ORD-100349,2025-09-08 21:54:00,CUST-1573,Coffee Maker,Appliances,2,75.92,151.84,South,Online
+ORD-100907,2025-09-09 03:42:00,CUST-3635,Smartphone,Electronics,4,572.43,2289.72,East,Wholesale
+ORD-100406,2025-09-09 14:11:00,CUST-3315,Coffee Maker,Appliances,4,78.71,314.84,East,Online
+ORD-100911,2025-09-09 16:19:00,CUST-2574,Backpack,Accessories,1,47.01,47.01,East,Online
+ORD-100566,2025-09-10 05:05:00,CUST-3639,Laptop,Electronics,1,977.94,977.94,North,In-Store
+ORD-100817,2025-09-10 08:07:00,CUST-2809,Smartphone,Electronics,4,575.32,2301.28,West,In-Store
+ORD-100677,2025-09-11 14:59:00,CUST-1137,Laptop,Electronics,5,920.16,4600.8,South,Online
+ORD-100475,2025-09-12 01:00:00,CUST-4720,Backpack,Accessories,2,48.41,96.82,South,Online
+ORD-100965,2025-09-12 05:08:00,CUST-4971,Smartphone,Electronics,1,571.23,571.23,South,In-Store
+ORD-100839,2025-09-12 08:06:00,CUST-2238,Headphones,Accessories,3,85.06,255.18,East,Wholesale
+ORD-100345,2025-09-12 15:54:00,CUST-2518,Laptop,Electronics,4,980.27,3921.08,South,Online
+ORD-100748,2025-09-12 18:49:00,CUST-2319,Smartphone,Electronics,3,576.77,1730.31,West,Wholesale
+ORD-100924,2025-09-12 20:18:00,CUST-4323,Desk Chair,Furniture,2,138.3,276.6,West,In-Store
+ORD-100975,2025-09-13 04:57:00,CUST-3237,Backpack,Accessories,2,49.63,99.26,North,Wholesale
+ORD-100014,2025-09-13 13:30:00,CUST-4051,Coffee Maker,Appliances,3,75.66,226.98,East,Online
+ORD-100643,2025-09-15 00:21:00,CUST-1574,Coffee Maker,Appliances,5,73.9,369.5,East,Wholesale
+ORD-100264,2025-09-15 01:53:00,CUST-2321,Laptop,Electronics,3,951.8,2855.4,East,Online
+ORD-100139,2025-09-15 20:08:00,CUST-4729,Headphones,Accessories,4,88.82,355.28,North,Wholesale
+ORD-100949,2025-09-16 01:08:00,CUST-3028,Backpack,Accessories,4,47.65,190.6,North,In-Store
+ORD-100076,2025-09-16 14:33:00,CUST-2061,Desk Chair,Furniture,2,141.68,283.36,West,In-Store
+ORD-100281,2025-09-16 15:22:00,CUST-4993,Desk Chair,Furniture,5,139.19,695.95,North,Online
+ORD-100976,2025-09-17 11:18:00,CUST-3731,Coffee Maker,Appliances,4,77.63,310.52,South,Wholesale
+ORD-100286,2025-09-17 17:23:00,CUST-4341,Desk Chair,Furniture,5,142.34,711.7,South,In-Store
+ORD-100040,2025-09-18 02:44:00,CUST-1491,Smartphone,Electronics,1,544.1,544.1,East,In-Store
+ORD-100673,2025-09-18 13:40:00,CUST-2593,Headphones,Accessories,5,88.2,441.0,North,Online
+ORD-100694,2025-09-19 09:33:00,CUST-3153,Backpack,Accessories,5,46.1,230.5,East,Online
+ORD-100449,2025-09-19 12:17:00,CUST-1644,Laptop,Electronics,5,949.95,4749.75,East,In-Store
+ORD-100402,2025-09-19 13:15:00,CUST-1760,Backpack,Accessories,5,47.97,239.85,West,In-Store
+ORD-100320,2025-09-19 15:12:00,CUST-3309,Laptop,Electronics,5,945.33,4726.65,West,In-Store
+ORD-100708,2025-09-19 16:38:00,CUST-2173,Coffee Maker,Appliances,1,75.57,75.57,West,Wholesale
+ORD-100532,2025-09-20 00:41:00,CUST-4280,Coffee Maker,Appliances,2,72.06,144.12,East,Wholesale
+ORD-100229,2025-09-20 05:01:00,CUST-4811,Backpack,Accessories,2,45.45,90.9,West,In-Store
+ORD-100596,2025-09-20 10:12:00,CUST-1858,Coffee Maker,Appliances,3,76.37,229.11,East,Online
+ORD-100848,2025-09-21 03:29:00,CUST-1579,Smartphone,Electronics,5,572.54,2862.7,South,In-Store
+ORD-100608,2025-09-21 04:04:00,CUST-1659,Backpack,Accessories,3,45.19,135.57,South,Online
+ORD-100276,2025-09-21 15:56:00,CUST-4871,Backpack,Accessories,4,49.39,197.56,North,Online
+ORD-100652,2025-09-21 21:57:00,CUST-3465,Headphones,Accessories,2,82.89,165.78,East,In-Store
+ORD-100415,2025-09-21 23:11:00,CUST-4551,Laptop,Electronics,4,913.55,3654.2,North,In-Store
+ORD-100228,2025-09-22 04:15:00,CUST-4708,Headphones,Accessories,2,81.75,163.5,South,In-Store
+ORD-100394,2025-09-22 05:57:00,CUST-1949,Desk Chair,Furniture,5,137.39,686.95,West,In-Store
+ORD-100538,2025-09-22 08:12:00,CUST-2309,Laptop,Electronics,5,980.53,4902.65,West,Wholesale
+ORD-100263,2025-09-22 11:45:00,CUST-2772,Smartphone,Electronics,5,592.67,2963.35,East,Online
+ORD-100617,2025-09-22 12:47:00,CUST-2214,Desk Chair,Furniture,4,147.03,588.12,West,Online
+ORD-100762,2025-09-23 04:36:00,CUST-1088,Headphones,Accessories,2,81.05,162.1,East,In-Store
+ORD-100319,2025-09-24 15:04:00,CUST-4681,Laptop,Electronics,5,968.02,4840.1,West,Online
+ORD-100648,2025-09-24 21:37:00,CUST-3677,Headphones,Accessories,3,88.5,265.5,East,In-Store
+ORD-100845,2025-09-24 22:29:00,CUST-4654,Coffee Maker,Appliances,5,74.49,372.45,South,Wholesale
+ORD-100920,2025-09-25 15:38:00,CUST-3373,Coffee Maker,Appliances,5,78.95,394.75,East,Wholesale
+ORD-100946,2025-09-25 16:41:00,CUST-3990,Smartphone,Electronics,4,575.49,2301.96,South,Online
+ORD-100661,2025-09-25 17:12:00,CUST-2949,Coffee Maker,Appliances,2,75.35,150.7,North,Online
+ORD-100214,2025-09-25 20:48:00,CUST-4172,Smartphone,Electronics,3,561.82,1685.46,West,In-Store
+ORD-100096,2025-09-25 22:12:00,CUST-2784,Headphones,Accessories,5,86.53,432.65,West,In-Store
+ORD-100448,2025-09-26 02:10:00,CUST-2864,Headphones,Accessories,5,87.4,437.0,North,In-Store
+ORD-100775,2025-09-26 08:24:00,CUST-4785,Smartphone,Electronics,4,544.29,2177.16,South,Wholesale
+ORD-100842,2025-09-26 10:35:00,CUST-3967,Headphones,Accessories,1,82.28,82.28,East,Online
+ORD-100106,2025-09-26 20:22:00,CUST-2478,Headphones,Accessories,2,89.81,179.62,South,Online
+ORD-100880,2025-09-27 09:32:00,CUST-2935,Backpack,Accessories,5,47.58,237.9,North,Online
+ORD-100489,2025-09-27 12:27:00,CUST-2236,Laptop,Electronics,4,937.35,3749.4,North,In-Store
+ORD-100238,2025-09-27 18:34:00,CUST-4577,Desk Chair,Furniture,5,146.79,733.95,North,In-Store
+ORD-100756,2025-09-27 22:25:00,CUST-1432,Smartphone,Electronics,2,574.19,1148.38,West,Wholesale
+ORD-100018,2025-09-28 08:34:00,CUST-4624,Desk Chair,Furniture,1,147.9,147.9,North,Wholesale
+ORD-100022,2025-09-29 00:01:00,CUST-4599,Desk Chair,Furniture,1,139.85,139.85,North,In-Store
+ORD-100933,2025-09-29 03:15:00,CUST-4155,Desk Chair,Furniture,5,140.42,702.1,East,In-Store
+ORD-100894,2025-09-29 14:50:00,CUST-2293,Laptop,Electronics,4,928.87,3715.48,West,Wholesale
+ORD-100895,2025-09-29 23:18:00,CUST-3500,Laptop,Electronics,5,909.73,4548.65,South,In-Store
+ORD-100893,2025-09-30 07:58:00,CUST-1594,Backpack,Accessories,4,48.41,193.64,West,In-Store
+ORD-100726,2025-09-30 09:10:00,CUST-2186,Backpack,Accessories,1,45.93,45.93,East,Online
+ORD-100962,2025-09-30 23:09:00,CUST-4872,Desk Chair,Furniture,4,148.48,593.92,South,Wholesale
+ORD-100703,2025-10-01 10:46:00,CUST-1405,Backpack,Accessories,5,46.49,232.45,North,In-Store
+ORD-100142,2025-10-01 12:58:00,CUST-1280,Headphones,Accessories,4,86.63,346.52,North,Wholesale
+ORD-100558,2025-10-01 21:16:00,CUST-4424,Laptop,Electronics,1,959.38,959.38,North,Wholesale
+ORD-100688,2025-10-02 00:19:00,CUST-2634,Coffee Maker,Appliances,2,78.65,157.3,South,Online
+ORD-100019,2025-10-02 09:06:00,CUST-2858,Coffee Maker,Appliances,3,74.71,224.13,West,Online
+ORD-100386,2025-10-02 20:16:00,CUST-3722,Coffee Maker,Appliances,1,79.31,79.31,East,Wholesale
+ORD-100105,2025-10-02 23:33:00,CUST-3414,Smartphone,Electronics,4,551.48,2205.92,South,Wholesale
+ORD-100164,2025-10-03 04:37:00,CUST-4040,Backpack,Accessories,5,47.26,236.3,West,Wholesale
+ORD-100781,2025-10-03 07:13:00,CUST-3989,Smartphone,Electronics,3,572.78,1718.34,West,Wholesale
+ORD-100981,2025-10-03 15:12:00,CUST-3008,Coffee Maker,Appliances,1,77.36,77.36,West,Online
+ORD-100442,2025-10-03 21:01:00,CUST-4772,Smartphone,Electronics,3,556.64,1669.92,North,Wholesale
+ORD-100064,2025-10-03 23:26:00,CUST-1286,Coffee Maker,Appliances,2,79.51,159.02,South,In-Store
+ORD-100620,2025-10-03 23:59:00,CUST-2880,Coffee Maker,Appliances,1,78.19,78.19,East,Online
+ORD-100035,2025-10-04 00:30:00,CUST-2989,Laptop,Electronics,2,992.63,1985.26,East,In-Store
+ORD-100079,2025-10-04 02:45:00,CUST-1876,Smartphone,Electronics,4,549.04,2196.16,East,Wholesale
+ORD-100959,2025-10-04 03:52:00,CUST-4116,Coffee Maker,Appliances,5,75.82,379.1,East,Wholesale
+ORD-100718,2025-10-04 09:17:00,CUST-3447,Desk Chair,Furniture,5,141.66,708.3,East,Wholesale
+ORD-100641,2025-10-04 16:06:00,CUST-4651,Coffee Maker,Appliances,3,78.19,234.57,West,Online
+ORD-100918,2025-10-04 21:57:00,CUST-2389,Headphones,Accessories,4,85.49,341.96,North,Online
+ORD-100323,2025-10-05 02:03:00,CUST-2674,Laptop,Electronics,4,998.6,3994.4,North,In-Store
+ORD-100479,2025-10-06 00:39:00,CUST-4200,Backpack,Accessories,3,48.9,146.7,West,Wholesale
+ORD-100744,2025-10-06 11:52:00,CUST-3175,Headphones,Accessories,3,87.58,262.74,East,Online
+ORD-100307,2025-10-06 17:53:00,CUST-1789,Backpack,Accessories,2,49.44,98.88,West,In-Store
+ORD-100627,2025-10-07 10:04:00,CUST-4583,Coffee Maker,Appliances,3,73.14,219.42,North,Wholesale
+ORD-100294,2025-10-07 12:05:00,CUST-4921,Coffee Maker,Appliances,3,78.17,234.51,West,Online
+ORD-100350,2025-10-07 16:40:00,CUST-1138,Smartphone,Electronics,5,595.0,2975.0,North,Wholesale
+ORD-100382,2025-10-09 00:55:00,CUST-4404,Coffee Maker,Appliances,2,75.68,151.36,West,In-Store
+ORD-100258,2025-10-09 18:30:00,CUST-3083,Headphones,Accessories,2,89.01,178.02,East,In-Store
+ORD-100133,2025-10-10 04:56:00,CUST-2131,Backpack,Accessories,5,45.94,229.7,East,Online
+ORD-100053,2025-10-10 05:03:00,CUST-4681,Backpack,Accessories,3,45.63,136.89,South,Online
+ORD-100180,2025-10-10 07:20:00,CUST-4389,Backpack,Accessories,2,47.25,94.5,West,In-Store
+ORD-100354,2025-10-10 14:02:00,CUST-3057,Laptop,Electronics,3,901.66,2704.98,South,Online
+ORD-100211,2025-10-11 01:24:00,CUST-3478,Backpack,Accessories,5,49.54,247.7,East,In-Store
+ORD-100511,2025-10-11 02:04:00,CUST-4611,Backpack,Accessories,4,49.08,196.32,West,Wholesale
+ORD-100047,2025-10-11 10:13:00,CUST-4644,Coffee Maker,Appliances,2,72.82,145.64,South,Online
+ORD-100260,2025-10-11 19:32:00,CUST-4621,Headphones,Accessories,5,85.2,426.0,East,Wholesale
+ORD-100347,2025-10-11 19:56:00,CUST-2351,Desk Chair,Furniture,3,145.79,437.37,East,Online
+ORD-100628,2025-10-12 04:49:00,CUST-3242,Laptop,Electronics,5,904.17,4520.85,West,Wholesale
+ORD-100790,2025-10-12 09:33:00,CUST-3989,Smartphone,Electronics,4,549.09,2196.36,East,Online
+ORD-100187,2025-10-12 12:32:00,CUST-4461,Laptop,Electronics,5,976.25,4881.25,East,In-Store
+ORD-100819,2025-10-13 07:05:00,CUST-1595,Laptop,Electronics,1,918.47,918.47,South,Online
+ORD-100795,2025-10-13 18:11:00,CUST-1120,Coffee Maker,Appliances,3,72.94,218.82,East,Wholesale
+ORD-100216,2025-10-13 23:09:00,CUST-1333,Backpack,Accessories,5,46.41,232.05,East,In-Store
+ORD-100671,2025-10-14 18:56:00,CUST-2630,Backpack,Accessories,3,46.26,138.78,South,Wholesale
+ORD-100255,2025-10-15 04:01:00,CUST-2169,Headphones,Accessories,4,87.96,351.84,East,Wholesale
+ORD-100724,2025-10-15 14:55:00,CUST-2077,Backpack,Accessories,4,46.24,184.96,West,Online
+ORD-100015,2025-10-15 18:23:00,CUST-1898,Headphones,Accessories,4,87.71,350.84,West,In-Store
+ORD-100188,2025-10-15 21:13:00,CUST-4805,Desk Chair,Furniture,5,145.11,725.55,North,Wholesale
+ORD-100431,2025-10-16 00:17:00,CUST-1872,Desk Chair,Furniture,4,144.74,578.96,South,Wholesale
+ORD-100657,2025-10-16 21:45:00,CUST-2839,Laptop,Electronics,3,987.84,2963.52,North,Online
+ORD-100146,2025-10-17 23:16:00,CUST-3798,Smartphone,Electronics,1,550.19,550.19,West,Wholesale
+ORD-100969,2025-10-18 04:30:00,CUST-2523,Headphones,Accessories,3,82.54,247.62,East,In-Store
+ORD-100526,2025-10-19 00:59:00,CUST-1135,Smartphone,Electronics,2,551.56,1103.12,North,Online
+ORD-100041,2025-10-19 08:24:00,CUST-3692,Desk Chair,Furniture,5,143.91,719.55,North,In-Store
+ORD-100531,2025-10-20 07:18:00,CUST-2677,Smartphone,Electronics,2,578.83,1157.66,South,Wholesale
+ORD-100710,2025-10-20 13:48:00,CUST-2297,Laptop,Electronics,3,907.9,2723.7,East,In-Store
+ORD-100269,2025-10-20 14:13:00,CUST-4918,Desk Chair,Furniture,4,144.58,578.32,South,Wholesale
+ORD-100030,2025-10-20 19:40:00,CUST-1386,Backpack,Accessories,4,46.21,184.84,West,Online
+ORD-100804,2025-10-20 20:16:00,CUST-2871,Desk Chair,Furniture,1,142.87,142.87,North,In-Store
+ORD-100200,2025-10-21 13:48:00,CUST-1085,Coffee Maker,Appliances,3,77.11,231.33,North,In-Store
+ORD-100582,2025-10-21 15:17:00,CUST-3037,Laptop,Electronics,4,985.65,3942.6,South,Online
+ORD-100611,2025-10-21 18:46:00,CUST-3132,Headphones,Accessories,3,81.65,244.95,East,Online
+ORD-100297,2025-10-21 23:05:00,CUST-2189,Desk Chair,Furniture,4,140.69,562.76,South,Online
+ORD-100994,2025-10-22 00:35:00,CUST-2888,Headphones,Accessories,1,82.46,82.46,East,In-Store
+ORD-100262,2025-10-22 02:31:00,CUST-3785,Smartphone,Electronics,1,598.33,598.33,West,In-Store
+ORD-100776,2025-10-22 03:03:00,CUST-1780,Laptop,Electronics,4,967.17,3868.68,South,In-Store
+ORD-100622,2025-10-22 07:46:00,CUST-2295,Headphones,Accessories,4,84.66,338.64,West,In-Store
+ORD-100236,2025-10-22 08:15:00,CUST-2445,Coffee Maker,Appliances,4,73.14,292.56,North,Wholesale
+ORD-100827,2025-10-22 21:16:00,CUST-3986,Headphones,Accessories,5,89.33,446.65,West,Wholesale
+ORD-100422,2025-10-23 04:27:00,CUST-1407,Desk Chair,Furniture,3,147.78,443.34,North,Online
+ORD-100063,2025-10-23 06:29:00,CUST-4791,Headphones,Accessories,4,81.39,325.56,North,Wholesale
+ORD-100186,2025-10-23 17:19:00,CUST-2434,Smartphone,Electronics,4,549.27,2197.08,East,Online
+ORD-100111,2025-10-23 21:29:00,CUST-2016,Coffee Maker,Appliances,2,72.42,144.84,South,Online
+ORD-100091,2025-10-24 00:52:00,CUST-1812,Headphones,Accessories,4,86.17,344.68,West,Wholesale
+ORD-100822,2025-10-24 12:17:00,CUST-4676,Laptop,Electronics,3,909.3,2727.9,South,In-Store
+ORD-100155,2025-10-24 12:27:00,CUST-2701,Coffee Maker,Appliances,3,73.04,219.12,South,Wholesale
+ORD-100207,2025-10-24 15:19:00,CUST-2294,Coffee Maker,Appliances,5,79.38,396.9,South,Wholesale
+ORD-100928,2025-10-25 01:23:00,CUST-1064,Smartphone,Electronics,5,545.99,2729.95,West,Online
+ORD-100462,2025-10-25 03:15:00,CUST-3325,Desk Chair,Furniture,4,136.99,547.96,North,Wholesale
+ORD-100289,2025-10-26 16:23:00,CUST-4365,Smartphone,Electronics,5,571.44,2857.2,West,Online
+ORD-100042,2025-10-26 19:17:00,CUST-3933,Desk Chair,Furniture,3,139.74,419.22,East,Wholesale
+ORD-100217,2025-10-26 22:39:00,CUST-3437,Smartphone,Electronics,3,594.99,1784.97,West,Online
+ORD-100669,2025-10-27 08:39:00,CUST-2128,Headphones,Accessories,4,88.68,354.72,South,Wholesale
+ORD-100609,2025-10-27 08:42:00,CUST-4803,Laptop,Electronics,2,933.05,1866.1,North,Online
+ORD-100368,2025-10-27 22:33:00,CUST-3920,Backpack,Accessories,5,45.42,227.1,South,Online
+ORD-100686,2025-10-28 00:56:00,CUST-4230,Backpack,Accessories,1,45.57,45.57,West,Wholesale
+ORD-100170,2025-10-28 07:22:00,CUST-4516,Smartphone,Electronics,2,559.7,1119.4,North,In-Store
+ORD-100184,2025-10-28 19:10:00,CUST-4578,Desk Chair,Furniture,1,139.94,139.94,West,In-Store
+ORD-100135,2025-10-28 19:47:00,CUST-2983,Coffee Maker,Appliances,2,75.91,151.82,West,Wholesale
+ORD-100492,2025-10-29 05:59:00,CUST-3985,Backpack,Accessories,3,46.52,139.56,East,Online
+ORD-100642,2025-10-29 09:55:00,CUST-2490,Smartphone,Electronics,5,567.87,2839.35,North,In-Store
+ORD-100557,2025-10-29 17:13:00,CUST-2047,Smartphone,Electronics,1,547.38,547.38,West,Wholesale
+ORD-100412,2025-10-29 23:31:00,CUST-3523,Headphones,Accessories,5,88.74,443.7,West,Online
+ORD-100665,2025-10-29 23:46:00,CUST-4136,Desk Chair,Furniture,2,136.46,272.92,South,In-Store
+ORD-100660,2025-10-30 02:20:00,CUST-1828,Smartphone,Electronics,2,562.68,1125.36,North,Online
+ORD-100334,2025-10-30 05:58:00,CUST-4982,Coffee Maker,Appliances,5,77.42,387.1,West,Online
+ORD-100457,2025-10-30 16:50:00,CUST-1026,Smartphone,Electronics,5,583.94,2919.7,East,Online
+ORD-100097,2025-10-31 09:09:00,CUST-1998,Headphones,Accessories,1,88.66,88.66,South,In-Store
+ORD-100852,2025-10-31 21:29:00,CUST-2361,Coffee Maker,Appliances,5,77.59,387.95,South,In-Store
+ORD-100536,2025-11-01 20:47:00,CUST-2377,Headphones,Accessories,1,83.68,83.68,West,Online
+ORD-100901,2025-11-01 22:24:00,CUST-4507,Smartphone,Electronics,1,597.02,597.02,North,Online
+ORD-100317,2025-11-02 02:47:00,CUST-1459,Desk Chair,Furniture,3,141.69,425.07,North,Wholesale
+ORD-100863,2025-11-02 15:48:00,CUST-4915,Headphones,Accessories,4,85.99,343.96,East,In-Store
+ORD-100786,2025-11-02 18:08:00,CUST-4794,Laptop,Electronics,5,918.63,4593.15,West,Wholesale
+ORD-100414,2025-11-02 18:23:00,CUST-2095,Smartphone,Electronics,3,559.41,1678.23,South,Wholesale
+ORD-100100,2025-11-02 23:56:00,CUST-1988,Headphones,Accessories,5,85.99,429.95,East,Online
+ORD-100121,2025-11-03 01:21:00,CUST-1374,Backpack,Accessories,5,48.66,243.3,South,Online
+ORD-100678,2025-11-03 17:25:00,CUST-1147,Desk Chair,Furniture,5,145.47,727.35,East,Wholesale
+ORD-100769,2025-11-05 00:23:00,CUST-3147,Coffee Maker,Appliances,4,78.21,312.84,North,In-Store
+ORD-100283,2025-11-05 17:22:00,CUST-3922,Backpack,Accessories,1,47.49,47.49,North,Online
+ORD-100651,2025-11-06 00:13:00,CUST-1315,Desk Chair,Furniture,4,148.22,592.88,East,Online
+ORD-100902,2025-11-06 04:26:00,CUST-3849,Backpack,Accessories,5,48.27,241.35,East,Online
+ORD-100584,2025-11-06 21:07:00,CUST-3750,Coffee Maker,Appliances,5,74.43,372.15,East,Wholesale
+ORD-100272,2025-11-07 04:54:00,CUST-1535,Headphones,Accessories,3,88.74,266.22,South,In-Store
+ORD-100316,2025-11-07 12:45:00,CUST-3786,Backpack,Accessories,4,48.5,194.0,East,Online
+ORD-100658,2025-11-07 16:05:00,CUST-4360,Backpack,Accessories,4,45.84,183.36,East,Wholesale
+ORD-100445,2025-11-08 01:52:00,CUST-3899,Headphones,Accessories,2,86.99,173.98,North,Online
+ORD-100760,2025-11-08 08:12:00,CUST-4938,Desk Chair,Furniture,4,143.17,572.68,South,In-Store
+ORD-100251,2025-11-08 23:08:00,CUST-2500,Backpack,Accessories,1,45.16,45.16,East,Wholesale
+ORD-100579,2025-11-10 01:51:00,CUST-4561,Laptop,Electronics,2,964.33,1928.66,West,In-Store
+ORD-100825,2025-11-10 01:59:00,CUST-3965,Laptop,Electronics,5,957.13,4785.65,North,In-Store
+ORD-100798,2025-11-10 07:52:00,CUST-3818,Desk Chair,Furniture,1,138.47,138.47,South,Online
+ORD-100285,2025-11-10 10:52:00,CUST-2377,Smartphone,Electronics,5,563.57,2817.85,South,Wholesale
+ORD-100292,2025-11-10 16:05:00,CUST-2331,Coffee Maker,Appliances,2,77.81,155.62,East,Wholesale
+ORD-100175,2025-11-11 01:28:00,CUST-3635,Coffee Maker,Appliances,5,78.26,391.3,South,In-Store
+ORD-100396,2025-11-11 06:44:00,CUST-1879,Backpack,Accessories,4,47.95,191.8,North,Wholesale
+ORD-100366,2025-11-11 20:19:00,CUST-2119,Backpack,Accessories,3,49.83,149.49,North,Wholesale
+ORD-100662,2025-11-11 20:28:00,CUST-2975,Laptop,Electronics,5,987.77,4938.85,North,Online
+ORD-100833,2025-11-12 00:59:00,CUST-4265,Smartphone,Electronics,3,551.63,1654.89,West,In-Store
+ORD-100477,2025-11-12 08:23:00,CUST-1359,Coffee Maker,Appliances,4,74.35,297.4,West,Online
+ORD-100754,2025-11-12 09:04:00,CUST-4869,Desk Chair,Furniture,1,135.6,135.6,South,Online
+ORD-100300,2025-11-12 20:01:00,CUST-1953,Smartphone,Electronics,5,554.54,2772.7,East,Wholesale
+ORD-100922,2025-11-13 01:33:00,CUST-3591,Smartphone,Electronics,2,582.07,1164.14,North,Online
+ORD-100222,2025-11-13 04:28:00,CUST-4158,Desk Chair,Furniture,2,140.64,281.28,East,Wholesale
+ORD-100979,2025-11-13 07:31:00,CUST-3626,Backpack,Accessories,3,46.78,140.34,North,Wholesale
+ORD-100614,2025-11-13 18:06:00,CUST-2417,Backpack,Accessories,1,49.97,49.97,North,Wholesale
+ORD-100520,2025-11-13 20:46:00,CUST-3828,Coffee Maker,Appliances,1,77.54,77.54,West,In-Store
+ORD-100586,2025-11-14 20:28:00,CUST-1399,Backpack,Accessories,3,48.57,145.71,West,Online
+ORD-100235,2025-11-15 15:36:00,CUST-3110,Laptop,Electronics,4,911.08,3644.32,North,Wholesale
+ORD-100223,2025-11-16 05:39:00,CUST-3947,Coffee Maker,Appliances,4,75.49,301.96,South,Wholesale
+ORD-100597,2025-11-16 09:55:00,CUST-3222,Coffee Maker,Appliances,2,74.75,149.5,East,Wholesale
+ORD-100535,2025-11-16 13:33:00,CUST-3651,Desk Chair,Furniture,5,136.53,682.65,South,Wholesale
+ORD-100178,2025-11-16 21:36:00,CUST-3173,Desk Chair,Furniture,3,143.22,429.66,West,Wholesale
+ORD-100423,2025-11-17 15:41:00,CUST-1002,Laptop,Electronics,2,912.41,1824.82,West,In-Store
+ORD-100934,2025-11-17 22:30:00,CUST-3806,Smartphone,Electronics,2,556.58,1113.16,North,Online
+ORD-100432,2025-11-18 05:10:00,CUST-4672,Backpack,Accessories,4,48.07,192.28,East,Online
+ORD-100441,2025-11-18 17:06:00,CUST-3197,Backpack,Accessories,4,47.11,188.44,North,Wholesale
+ORD-100008,2025-11-18 21:06:00,CUST-1933,Headphones,Accessories,1,86.19,86.19,North,Wholesale
+ORD-100806,2025-11-19 01:40:00,CUST-2889,Smartphone,Electronics,4,557.46,2229.84,South,In-Store
+ORD-100072,2025-11-19 19:38:00,CUST-1999,Smartphone,Electronics,4,583.09,2332.36,West,In-Store
+ORD-100130,2025-11-19 20:46:00,CUST-2671,Smartphone,Electronics,3,582.58,1747.74,North,Wholesale
+ORD-100881,2025-11-19 22:39:00,CUST-1216,Coffee Maker,Appliances,5,72.62,363.1,South,Wholesale
+ORD-100242,2025-11-20 06:13:00,CUST-1825,Smartphone,Electronics,4,543.78,2175.12,North,In-Store
+ORD-100828,2025-11-20 16:59:00,CUST-2189,Backpack,Accessories,5,49.03,245.15,East,Wholesale
+ORD-100191,2025-11-21 01:02:00,CUST-2858,Laptop,Electronics,2,974.6,1949.2,West,In-Store
+ORD-100144,2025-11-21 03:25:00,CUST-2328,Backpack,Accessories,3,45.82,137.46,North,Online
+ORD-100737,2025-11-21 14:49:00,CUST-4232,Headphones,Accessories,3,81.13,243.39,North,In-Store
+ORD-100674,2025-11-22 00:10:00,CUST-1262,Laptop,Electronics,4,982.32,3929.28,West,Online
+ORD-100124,2025-11-22 16:47:00,CUST-3744,Laptop,Electronics,4,946.99,3787.96,South,In-Store
+ORD-100736,2025-11-23 10:11:00,CUST-1966,Smartphone,Electronics,1,561.62,561.62,East,Online
+ORD-100746,2025-11-23 17:16:00,CUST-1978,Backpack,Accessories,1,48.66,48.66,South,Wholesale
+ORD-100757,2025-11-23 19:40:00,CUST-4245,Headphones,Accessories,4,87.06,348.24,North,Online
+ORD-100353,2025-11-23 22:45:00,CUST-3179,Desk Chair,Furniture,4,148.68,594.72,North,Online
+ORD-100753,2025-11-24 02:04:00,CUST-1238,Headphones,Accessories,4,86.01,344.04,South,Wholesale
+ORD-100001,2025-11-24 03:48:00,CUST-4016,Laptop,Electronics,2,974.15,1948.3,East,Online
+ORD-100399,2025-11-24 10:41:00,CUST-2441,Desk Chair,Furniture,4,140.82,563.28,North,In-Store
+ORD-100496,2025-11-24 11:27:00,CUST-1277,Backpack,Accessories,2,45.05,90.1,East,Wholesale
+ORD-100310,2025-11-24 13:50:00,CUST-1390,Backpack,Accessories,1,47.57,47.57,West,Wholesale
+ORD-100021,2025-11-24 17:19:00,CUST-4905,Desk Chair,Furniture,3,137.97,413.91,East,Wholesale
+ORD-100720,2025-11-24 18:13:00,CUST-2809,Headphones,Accessories,4,89.17,356.68,East,Online
+ORD-100012,2025-11-24 23:29:00,CUST-4366,Desk Chair,Furniture,3,138.29,414.87,North,Online
+ORD-100205,2025-11-27 05:02:00,CUST-3467,Smartphone,Electronics,3,546.16,1638.48,East,Online
+ORD-100808,2025-11-27 15:25:00,CUST-4841,Laptop,Electronics,1,972.25,972.25,East,Wholesale
+ORD-100630,2025-11-27 17:29:00,CUST-1469,Smartphone,Electronics,2,549.65,1099.3,South,Online
+ORD-100865,2025-11-27 22:32:00,CUST-3706,Laptop,Electronics,2,909.04,1818.08,North,Online
+ORD-100874,2025-11-28 00:32:00,CUST-1346,Smartphone,Electronics,4,583.27,2333.08,West,Online
+ORD-100162,2025-11-28 02:09:00,CUST-1572,Coffee Maker,Appliances,3,78.58,235.74,West,Online
+ORD-100339,2025-11-28 02:41:00,CUST-2099,Backpack,Accessories,1,49.23,49.23,East,Online
+ORD-100707,2025-11-29 22:09:00,CUST-3757,Desk Chair,Furniture,3,137.61,412.83,South,In-Store
+ORD-100618,2025-11-30 06:34:00,CUST-3184,Headphones,Accessories,1,85.62,85.62,East,Wholesale
+ORD-100896,2025-11-30 09:18:00,CUST-3392,Headphones,Accessories,1,83.42,83.42,South,Wholesale
+ORD-100583,2025-12-01 00:36:00,CUST-4243,Laptop,Electronics,1,940.33,940.33,North,Online
+ORD-100711,2025-12-01 09:56:00,CUST-4198,Coffee Maker,Appliances,4,74.13,296.52,South,In-Store
+ORD-100784,2025-12-02 00:17:00,CUST-1078,Laptop,Electronics,3,938.86,2816.58,South,Online
+ORD-100416,2025-12-02 04:19:00,CUST-2319,Coffee Maker,Appliances,2,78.92,157.84,East,Wholesale
+ORD-100425,2025-12-02 12:18:00,CUST-3562,Headphones,Accessories,2,81.73,163.46,North,In-Store
+ORD-100676,2025-12-02 17:47:00,CUST-3622,Headphones,Accessories,5,87.39,436.95,North,Online
+ORD-100362,2025-12-03 01:07:00,CUST-3404,Smartphone,Electronics,3,595.72,1787.16,North,Online
+ORD-100459,2025-12-03 12:50:00,CUST-1975,Coffee Maker,Appliances,1,77.81,77.81,East,Wholesale
+ORD-100189,2025-12-03 23:40:00,CUST-2437,Headphones,Accessories,3,81.25,243.75,South,In-Store
+ORD-100663,2025-12-04 04:26:00,CUST-2723,Desk Chair,Furniture,1,143.08,143.08,West,Wholesale
+ORD-100384,2025-12-04 05:15:00,CUST-3449,Coffee Maker,Appliances,4,75.38,301.52,North,In-Store
+ORD-100587,2025-12-04 07:34:00,CUST-1435,Laptop,Electronics,3,934.13,2802.39,South,Wholesale
+ORD-100435,2025-12-04 10:17:00,CUST-2604,Smartphone,Electronics,5,571.06,2855.3,East,Wholesale
+ORD-100591,2025-12-04 20:06:00,CUST-4015,Desk Chair,Furniture,4,137.01,548.04,North,Wholesale
+ORD-100154,2025-12-04 23:14:00,CUST-1136,Smartphone,Electronics,1,577.69,577.69,South,In-Store
+ORD-100626,2025-12-05 01:03:00,CUST-2601,Backpack,Accessories,2,45.77,91.54,East,Wholesale
+ORD-100118,2025-12-05 06:45:00,CUST-4385,Backpack,Accessories,2,45.56,91.12,East,In-Store
+ORD-100293,2025-12-06 16:19:00,CUST-2402,Desk Chair,Furniture,2,140.64,281.28,West,Wholesale
+ORD-100070,2025-12-06 21:36:00,CUST-4303,Desk Chair,Furniture,2,140.02,280.04,South,Online
+ORD-100065,2025-12-07 11:16:00,CUST-2266,Desk Chair,Furniture,1,139.7,139.7,South,Wholesale
+ORD-100856,2025-12-07 11:16:00,CUST-1462,Headphones,Accessories,1,85.07,85.07,North,In-Store
+ORD-100067,2025-12-07 12:56:00,CUST-3244,Coffee Maker,Appliances,2,77.98,155.96,South,In-Store
+ORD-100185,2025-12-07 14:26:00,CUST-1424,Coffee Maker,Appliances,3,72.4,217.2,South,In-Store
+ORD-100148,2025-12-08 00:19:00,CUST-2809,Backpack,Accessories,5,49.5,247.5,East,Online
+ORD-100066,2025-12-08 13:56:00,CUST-2722,Headphones,Accessories,3,84.61,253.83,East,Online
+ORD-100599,2025-12-08 14:14:00,CUST-4310,Coffee Maker,Appliances,5,77.97,389.85,South,In-Store
+ORD-100341,2025-12-10 19:04:00,CUST-1867,Smartphone,Electronics,3,568.75,1706.25,South,Online
+ORD-100454,2025-12-11 01:47:00,CUST-1282,Smartphone,Electronics,5,553.38,2766.9,North,In-Store
+ORD-100160,2025-12-11 08:56:00,CUST-1957,Desk Chair,Furniture,3,140.71,422.13,North,Wholesale
+ORD-100689,2025-12-11 11:40:00,CUST-2448,Laptop,Electronics,2,955.45,1910.9,West,In-Store
+ORD-100771,2025-12-11 13:24:00,CUST-2769,Backpack,Accessories,5,48.75,243.75,North,Online
+ORD-100032,2025-12-11 22:18:00,CUST-2018,Coffee Maker,Appliances,4,72.78,291.12,South,Online
+ORD-100603,2025-12-12 19:10:00,CUST-3092,Smartphone,Electronics,5,584.54,2922.7,West,Online
+ORD-100939,2025-12-13 11:07:00,CUST-1971,Smartphone,Electronics,3,586.73,1760.19,East,Online
+ORD-100898,2025-12-13 23:33:00,CUST-1048,Smartphone,Electronics,1,558.79,558.79,North,Online
+ORD-100637,2025-12-14 11:19:00,CUST-3259,Backpack,Accessories,3,47.3,141.9,South,In-Store
+ORD-100925,2025-12-14 13:43:00,CUST-4426,Headphones,Accessories,5,82.08,410.4,East,In-Store
+ORD-100539,2025-12-15 04:46:00,CUST-4714,Coffee Maker,Appliances,4,72.19,288.76,South,In-Store
+ORD-100290,2025-12-15 08:16:00,CUST-2806,Laptop,Electronics,1,957.25,957.25,East,Online
+ORD-100735,2025-12-15 10:39:00,CUST-2971,Headphones,Accessories,1,82.42,82.42,North,In-Store
+ORD-100867,2025-12-15 10:48:00,CUST-4748,Headphones,Accessories,3,86.12,258.36,West,Wholesale
+ORD-100670,2025-12-15 13:33:00,CUST-2516,Smartphone,Electronics,5,564.78,2823.9,West,Online
+ORD-100439,2025-12-16 05:53:00,CUST-1276,Backpack,Accessories,1,49.76,49.76,North,Wholesale
+ORD-100966,2025-12-16 18:28:00,CUST-3640,Smartphone,Electronics,4,568.42,2273.68,West,Wholesale
+ORD-100605,2025-12-17 10:40:00,CUST-4558,Desk Chair,Furniture,3,135.8,407.4,East,Wholesale
+ORD-100836,2025-12-17 11:19:00,CUST-2389,Headphones,Accessories,2,81.59,163.18,South,Online
+ORD-100219,2025-12-17 17:58:00,CUST-2485,Laptop,Electronics,4,964.59,3858.36,South,Online
+ORD-100555,2025-12-18 04:34:00,CUST-1675,Headphones,Accessories,4,89.96,359.84,South,Online
+ORD-100625,2025-12-18 10:17:00,CUST-4367,Desk Chair,Furniture,4,136.29,545.16,West,In-Store
+ORD-100271,2025-12-19 02:02:00,CUST-2393,Smartphone,Electronics,4,566.37,2265.48,West,Online
+ORD-100912,2025-12-19 16:27:00,CUST-2240,Laptop,Electronics,3,956.71,2870.13,South,Wholesale
+ORD-100826,2025-12-19 20:38:00,CUST-3152,Coffee Maker,Appliances,5,74.29,371.45,South,In-Store
+ORD-100288,2025-12-19 21:28:00,CUST-1210,Laptop,Electronics,3,959.68,2879.04,East,Wholesale
+ORD-100704,2025-12-20 05:34:00,CUST-1394,Laptop,Electronics,3,921.54,2764.62,West,Wholesale
+ORD-100763,2025-12-20 09:25:00,CUST-1154,Desk Chair,Furniture,5,142.66,713.3,East,Online
+ORD-100831,2025-12-20 09:36:00,CUST-3252,Headphones,Accessories,3,88.1,264.3,South,Wholesale
+ORD-100166,2025-12-20 12:38:00,CUST-3808,Smartphone,Electronics,2,566.59,1133.18,South,Online
+ORD-100296,2025-12-20 16:41:00,CUST-1499,Headphones,Accessories,5,85.31,426.55,South,In-Store
+ORD-100963,2025-12-21 02:14:00,CUST-2600,Smartphone,Electronics,4,593.5,2374.0,North,Online
+ORD-100383,2025-12-21 02:21:00,CUST-2034,Backpack,Accessories,2,48.36,96.72,South,Online
+ORD-100995,2025-12-21 04:37:00,CUST-3606,Headphones,Accessories,3,82.46,247.38,South,In-Store
+ORD-100361,2025-12-21 19:20:00,CUST-3308,Backpack,Accessories,1,46.35,46.35,South,Wholesale
+ORD-100811,2025-12-21 22:08:00,CUST-3892,Coffee Maker,Appliances,1,78.36,78.36,North,Online
+ORD-100379,2025-12-22 06:51:00,CUST-4010,Backpack,Accessories,4,46.56,186.24,South,In-Store
+ORD-100256,2025-12-22 16:45:00,CUST-4680,Smartphone,Electronics,1,547.35,547.35,West,Online
+ORD-100861,2025-12-22 20:10:00,CUST-3843,Backpack,Accessories,4,48.91,195.64,South,Wholesale
+ORD-100884,2025-12-22 20:23:00,CUST-3577,Coffee Maker,Appliances,5,74.42,372.1,South,Online
+ORD-100380,2025-12-22 21:36:00,CUST-2148,Backpack,Accessories,2,49.83,99.66,South,In-Store
+ORD-100598,2025-12-22 21:44:00,CUST-3337,Headphones,Accessories,3,87.38,262.14,West,Wholesale
+ORD-100731,2025-12-23 01:04:00,CUST-4177,Headphones,Accessories,2,81.71,163.42,North,In-Store
+ORD-100604,2025-12-23 09:49:00,CUST-4918,Coffee Maker,Appliances,4,77.31,309.24,West,In-Store
+ORD-100428,2025-12-23 11:43:00,CUST-1290,Laptop,Electronics,4,998.81,3995.24,East,In-Store
+ORD-100074,2025-12-23 17:40:00,CUST-1546,Backpack,Accessories,2,45.24,90.48,North,In-Store
+ORD-100809,2025-12-23 18:39:00,CUST-1732,Smartphone,Electronics,3,563.57,1690.71,West,Online
+ORD-100510,2025-12-23 22:46:00,CUST-1931,Laptop,Electronics,3,908.56,2725.68,West,Wholesale
+ORD-100854,2025-12-24 15:59:00,CUST-4880,Laptop,Electronics,4,945.55,3782.2,West,Online
+ORD-100355,2025-12-24 23:00:00,CUST-3147,Backpack,Accessories,2,49.02,98.04,North,Online
+ORD-100998,2025-12-24 23:29:00,CUST-1052,Headphones,Accessories,5,81.85,409.25,South,Online
+ORD-100004,2025-12-26 18:36:00,CUST-4108,Backpack,Accessories,5,46.09,230.45,South,Online
+ORD-100958,2025-12-27 02:17:00,CUST-1977,Desk Chair,Furniture,2,145.63,291.26,East,In-Store
+ORD-100681,2025-12-27 02:20:00,CUST-4945,Laptop,Electronics,5,954.95,4774.75,South,In-Store
+ORD-100343,2025-12-27 06:58:00,CUST-2559,Backpack,Accessories,5,49.57,247.85,South,In-Store
+ORD-100849,2025-12-27 09:40:00,CUST-4654,Desk Chair,Furniture,1,138.66,138.66,South,Wholesale
+ORD-100879,2025-12-27 12:34:00,CUST-3995,Laptop,Electronics,1,958.02,958.02,East,Wholesale
+ORD-100468,2025-12-27 23:47:00,CUST-3912,Desk Chair,Furniture,3,135.6,406.8,East,Online
+ORD-100743,2025-12-28 14:56:00,CUST-1764,Desk Chair,Furniture,4,139.41,557.64,East,Wholesale
+ORD-100794,2025-12-28 17:52:00,CUST-1277,Smartphone,Electronics,2,565.79,1131.58,East,In-Store
+ORD-100218,2025-12-29 02:53:00,CUST-3878,Headphones,Accessories,3,86.02,258.06,East,Wholesale
+ORD-100393,2025-12-30 03:55:00,CUST-1999,Laptop,Electronics,1,984.91,984.91,East,Wholesale
+ORD-100265,2025-12-30 07:41:00,CUST-2026,Headphones,Accessories,5,89.52,447.6,South,Online
+ORD-100787,2025-12-31 00:44:00,CUST-3006,Laptop,Electronics,5,924.73,4623.65,South,In-Store
+ORD-100541,2026-01-01 07:35:00,CUST-2229,Coffee Maker,Appliances,4,76.27,305.08,South,Wholesale
+ORD-100257,2026-01-01 15:11:00,CUST-1265,Laptop,Electronics,3,981.04,2943.12,South,Wholesale
